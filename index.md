@@ -16,7 +16,9 @@ I enjoy engaging in communication with others, not only limited to scientific re
 - **Decision making:** I specifically focus on sequential decision making in crucial sectors, such as healthcare and e-learning.
 
 ## News
-- **[2019]** </a href="https://cerg1.ugc.edu.hk/hkpfs/index.html">Hong Kong Ph.D. Fellowship Scheme (HKPFS)!</a>
+- **[Oct, 2022]** I passed the PQE and became a Ph.D. candidate!
+- **[Sept 1, 2021]** I started my Ph.D. journey!
+- **[Apr 14, 2021]** [Hong Kong Ph.D. Fellowship Scheme (HKPFS)!](https://cerg1.ugc.edu.hk/hkpfs/index.html)
 - **[2020]** National Scholarship in Wuhan University.
 - **[2019]** National Scholarship in Wuhan University.
 - **[2019]** National College Mathematics Modeling Competition Competition Award M.

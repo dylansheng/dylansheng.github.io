@@ -1,6 +1,4 @@
 main:
-  - title: Two papers (one as the first author and one as the second author) are submitting to the journal of IEEE Transactions on Visualization and Computer Graphics (TVCG).
-
   - title: Knowledge Compass: A Question Answering System Guiding Students with Follow-Up Question Recommendations
     authors: <strong>Rui Sheng</strong>, Leni Yang, Haotian Li, Yan Luo, Ziyang Xu, Zhilan Zhou, David Gotz, Huamin Qu
     conference_short: UIST demo

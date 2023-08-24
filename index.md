@@ -17,7 +17,7 @@ I enjoy engaging in communication with others, not only limited to scientific re
 
 ## News
 - **[Aug, 2023]** Our UIST demo paper (first author) has been accepted!
-- **[July, 2023]** Our VISAP paper has been accepted! Looking forward to presenting it at IEEE VIS 23!
+- **[July, 2023]** Our VISAP paper has been accepted!
 - **[Oct, 2022]** I passed the PQE and became a Ph.D. candidate!
 - **[Sept 1, 2021]** I started my Ph.D. journey!
 - **[Apr 14, 2021]** [Hong Kong Ph.D. Fellowship Scheme (HKPFS)!](https://cerg1.ugc.edu.hk/hkpfs/index.html)

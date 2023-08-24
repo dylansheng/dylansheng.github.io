@@ -16,11 +16,12 @@ I enjoy engaging in communication with others, not only limited to scientific re
 - **Decision making:** I specifically focus on sequential decision making in crucial sectors, such as healthcare and e-learning.
 
 ## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[2019]** </a href="https://cerg1.ugc.edu.hk/hkpfs/index.html">Hong Kong Ph.D. Fellowship Scheme (HKPFS)!</a>
+- **[2020]** National Scholarship in Wuhan University.
+- **[2019]** National Scholarship in Wuhan University.
+- **[2019]** National College Mathematics Modeling Competition Competition Award M.
+- **[2019]** The Second Prize of the National College Internet of Things Competition.
+- **[2018]** The First Prize of the 10th National College Mathematics Competition(Non-math Major).
 
 {% include_relative _includes/publications.md %}
 

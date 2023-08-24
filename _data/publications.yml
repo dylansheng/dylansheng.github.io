@@ -4,7 +4,7 @@ main:
     conference_short: UIST demo
     conference: ACM Symposium on User Interface Software and Technology (UIST), 2023.
     pdf: https://drive.google.com/file/d/14ZvchOkE34fnj5pX2yw1RF6M1nRGhDJE/view?usp=sharing
-    demo video: https://www.youtube.com/watch?v=GFYlJ9I9Go4
+    # demo video: https://www.youtube.com/watch?v=GFYlJ9I9Go4
     image: ./assets/img/uistdemo23.jpg
 
   - title: "Posts with no Response: The Island of Loneliness"
@@ -12,5 +12,5 @@ main:
     conference_short: VISAP
     conference: IEEE VIS Arts Program <strong>(accepted in two tracks: Pictorial and Artwork)</strong>, 2023.
     pdf: https://wangyifang.top/static/media/vis23k-sub1032-i6.ea03e3b482a49b945996.pdf
-    demo video: https://wangyifang.top/static/media/video.c9ad132810478f771dd5.mp4
+    # demo video: https://wangyifang.top/static/media/video.c9ad132810478f771dd5.mp4
     image: ./assets/img/visap23.jpg

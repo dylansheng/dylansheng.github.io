@@ -8,14 +8,14 @@
 
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
-<ul style="margin:0 0 20px;">
+<ul style="margin:0 0 5px;">
   <li><a href="https://chinavis.org/2023/english/index_en.html"><autocolor>The China Visualization and Visual Analytics Conference (ChinaVis) 2023</autocolor></a></li>
   <li><a href="https://uobevents.eventsair.com/cikm2023/"><autocolor>The Conference on Information and Knowledge Management (CIKM) 2023</autocolor></a></li>
 </ul>
 
-<h4 style="margin:0 5px 0;">VisLab Service</h4>
+<h4 style="margin:0 10px 0;">VisLab Service</h4>
 
-<ul style="margin:0 0 20px;">
+<ul style="margin:0 0 5px;">
   <li><a href="http://vis.cse.ust.hk/"><autocolor>Maintained our group's homepage for one year (2021-2022)</autocolor></a></li>
   <li><autocolor>In charge of the publicity of our group (including WeChat, Zhihu, RedBook, Twitter and other platforms)</autocolor></li>
 </ul>

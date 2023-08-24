@@ -1,21 +1,17 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: Knowledge Compass: A Question Answering System Guiding Students with Follow-Up Question Recommendations
+    authors: <strong>Rui Sheng</strong>, Leni Yang, Haotian Li, Yan Luo, Ziyang Xu, Zhilan Zhou, David Gotz, Huamin Qu
+    conference_short: UIST demo
+    conference: ACM Symposium on User Interface Software and Technology (UIST), 2023.
+    pdf: https://drive.google.com/file/d/14ZvchOkE34fnj5pX2yw1RF6M1nRGhDJE/view?usp=sharing
+    demo video: https://www.youtube.com/watch?v=GFYlJ9I9Go4
+    image: ./assets/img/uistdemo23.jpg
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: Junxiu Tang, <strong>Rui Sheng</strong>, Yifang Wang, Xinhuan Shu, Xiaojiao Chen, Tan Tang, Yingcai Wu
     conference_short: VISAP
     conference: IEEE VIS Arts Program <strong>(accepted in two tracks: Pictorial and Artwork)</strong>, 2023.
-    pdf: 
-    code: 
-    page: 
-    bibtex:
-    image: ./assets/img/visap23.png
+    pdf: https://wangyifang.top/static/media/vis23k-sub1032-i6.ea03e3b482a49b945996.pdf
+    demo video: https://wangyifang.top/static/media/video.c9ad132810478f771dd5.mp4
+    image: ./assets/img/visap23.jpg

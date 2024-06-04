@@ -3,7 +3,8 @@
 <h4 style="margin:0 10px 0;">Teaching Assistant</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://cse.hkust.edu.hk/~dlee/4321/"><autocolor>HKUST COMP 4321 Search Engines for Web and Enterprise Data</autocolor></a></li>
+  <li><a href="https://cse.hkust.edu.hk/~dlee/4321/"><autocolor>HKUST COMP 4321 Search Engines for Web and Enterprise Data</autocolor></a></li> 
+  <li><a href="https://seng.hkust.edu.hk/sites/default/files/IMCE/UG/Course%20Syllabus/Fall_2022-2023/COMP1021_Fall%2022-23.pdf"><autocolor>HKUST COMP 1021 Introduction to Computer Science</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>

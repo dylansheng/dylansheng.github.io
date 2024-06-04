@@ -21,3 +21,10 @@ main:
     pdf: https://wangyifang.top/static/media/vis23k-sub1032-i6.ea03e3b482a49b945996.pdf
     video: https://wangyifang.top/static/media/video.c9ad132810478f771dd5.mp4
     image: ./assets/img/visap23.jpg
+
+  - title: "Unsupervised Temporal Attention Summarization Model for User Created Videos"
+    authors: Min Hu, Ruimin Hu, Xiaocheng Wang, <strong>Rui Sheng</strong>
+    conference_short: MMM
+    conference: International Conference on Multimedia Modeling (MMM), 2021.
+    pdf: https://link.springer.com/chapter/10.1007/978-3-030-67832-6_42
+    image: ./assets/img/mmm21.png

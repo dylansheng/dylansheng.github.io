@@ -3,7 +3,7 @@
 <h4 style="margin:0 10px 0;">Conference Helpers</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://cse.hkust.edu.hk/~dlee/4321/"><autocolor>ChinaVis 2024 student helper</autocolor></a></li> 
+  <li><a href="https://chinavis.org/2024/"><autocolor>ChinaVis 2024 student helper</autocolor></a></li> 
 </ul>
 
 <h4 style="margin:0 10px 0;">Teaching Assistant</h4>

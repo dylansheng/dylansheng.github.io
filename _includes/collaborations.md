@@ -1,7 +1,7 @@
 ## Collaborations
 I am eager to collaborate with researchers worldwide. My goal is for our joint research outcomes to be accepted and widely shared.
 - **[ETH Zurich in Switzerland]** I am working on a paper together with [Furui Cheng (post-doc in ETH)](https://www.furuicheng.tech/), which is targeted for the CHI 2025 (ddl: Sept 2025).
-- **[Northwestern University in the USA]** I am collaborating with [Yifang Wang (post-doc in (post-doc in Northwestern)](http://wangyifang.top/) and [Prof. Dashun Wang](https://www.kellogg.northwestern.edu/faculty/directory/wang_dashun.aspx) on leveraging visualizations to support the domain of Science of Science.
+- **[Northwestern University in the USA]** I am collaborating with [Yifang Wang (post-doc in Northwestern)](http://wangyifang.top/) and [Prof. Dashun Wang](https://www.kellogg.northwestern.edu/faculty/directory/wang_dashun.aspx) on leveraging visualizations to support the domain of Science of Science.
 - **[Westlake University in China]** I am collaborating with the team of [Prof. Ziqing Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN) on human-AI collaboration for the medical domain.
 - **[Cornell University in the USA]** I have collaborated with [Xingbo Wang (post-doc in Cornell)](https://andy-xingbowang.com/)) and [Prof. Fei Wang](https://weill.cornell.edu/faculty-highlight/fei-wang-phd), where we hoped to develop a visual analytics tool to help the domain of clinical trials. The paper is under revision. Besides, we also have collaborated on a paper [SciDaSynth](https://arxiv.org/pdf/2404.13765). (Under review)
 - **[Zhejiang University in China]** Our survey paper has been submitted to Computer Science Review (June 2024). (Under review)

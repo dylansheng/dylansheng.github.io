@@ -1,6 +1,9 @@
 ## Collaborations
-I am willing to cooperate with researchers from all over the world. I hope that our collaborative research outcomes can be accepted and shown to everyone as soon as possible.
-- **[Project leader]** The project leader of the research proposal Visual Analytics of Student-AI Interaction Data for Generative AI-Assisted Learning (approximately 1M HKD by the General Research Fund, the Research Grants Council (RGC) of Hong Kong, 2024-2027)
-- **[Project leader]** The project leader of the E-learning project (ITF project & CUHK project, approximately 1M HKD, 2023-2025)
-- **[Project member]** The project member of the E-learning project with Own the Room (ITF, 2021-2023)
-
+I am eager to collaborate with researchers worldwide. My goal is for our joint research outcomes to be accepted and widely shared.
+- **[ETH Zurich in Switzerland]** I am working on a paper together with [Furui Chen](https://www.furuicheng.tech/), which is targeted for the CHI 2025 (ddl: Sept 2025).
+- **[Northwestern University in America]** I am collaborating with [Yifang Wang](http://wangyifang.top/) and [Prof. Dashun Wang](https://www.kellogg.northwestern.edu/faculty/directory/wang_dashun.aspx) on leveraging visualizations to support the domain of Science of Science.
+- **[Westlake University in China]** I am collaborating with the team of [Prof. Ziqing Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN) on human-AI collaboration for the medical domain.
+- **[Cornell University in America]** I have been collaborating with [Xingbo Wang](https://andy-xingbowang.com/)) and [Prof Fei Wang](https://weill.cornell.edu/faculty-highlight/fei-wang-phd), where we hoped to develop a visual analytics tool to help the domain og clinical trial. The paper is under revision. Besides, we also collaborated on a paper [SciDaSynth](https://arxiv.org/pdf/2404.13765). Hope to be accepted!
+- **[Zhejiang University in China]** Our survey paper has been submitted to Computer Science Review (2024 June). Hope to be accepted!
+- **[Sichuan University in China, Dongnan University in China]** I collaborated with [Prof. Min Zhu](https://cs.scu.edu.cn/info/1279/13673.htm) and [Prof. Chuhan Shi](https://shichuhan.github.io/) on human-AI collaboration for science (2024 April). Hope to be accepted!
+- - **[UC Davis in America]** I collaborated with [Prof. Dongyu Liu](https://dongyu.tech/), where we focused on developing visual analytics solutions for mental health applications (2023 April). Our joint paper on this research is currently under review. Hope to be accepted!

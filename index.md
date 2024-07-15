@@ -16,7 +16,7 @@ I enjoy engaging in communication with others, not only limited to scientific re
 - **Decision making:** I specifically focus on sequential decision making in crucial sectors, such as healthcare and e-learning.
 
 ## News
-- **[June, 2024]** Our research proposal Visual Analytics of Student-AI Interaction Data for Generative AI-Assisted Learning (https://cerg1.ugc.edu.hk/cergprod/scrrm00541.jsp) was awarded approximately 1M HKD by the General Research Fund, the Research Grants Council (RGC) of Hong Kong.
+- **[June, 2024]** Our research proposal [Visual Analytics of Student-AI Interaction Data for Generative AI-Assisted Learning] (https://cerg1.ugc.edu.hk/cergprod/scrrm00541.jsp) was awarded approximately 1M HKD by the General Research Fund, the Research Grants Council (RGC) of Hong Kong!
 - **[Aug, 2023]** Our UIST demo paper (first author) has been accepted!
 - **[July, 2023]** Our VISAP paper has been accepted!
 - **[Oct, 2022]** I passed the PQE and became a Ph.D. candidate!

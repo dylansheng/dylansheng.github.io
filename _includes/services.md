@@ -1,5 +1,11 @@
 ## Services
 
+<h4 style="margin:0 10px 0;">Conference Helpers</h4>
+
+<ul style="margin:0 0 5px;">
+  <li><a href="https://cse.hkust.edu.hk/~dlee/4321/"><autocolor>ChinaVis 2024 student helper</autocolor></a></li> 
+</ul>
+
 <h4 style="margin:0 10px 0;">Teaching Assistant</h4>
 
 <ul style="margin:0 0 5px;">
@@ -23,4 +29,5 @@
 <ul style="margin:0 0 5px;">
   <li><a href="http://vis.cse.ust.hk/"><autocolor>Maintained our group's homepage for one year (2021-2022)</autocolor></a></li>
   <li><autocolor>In charge of the publicity of our group (including WeChat, Zhihu, RedBook, Twitter and other platforms)</autocolor></li>
+  <li><autocolor>In charge of the BBS of our group</autocolor></li>
 </ul>

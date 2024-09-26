@@ -18,3 +18,7 @@ main:
   - image: ./assets/img/Engager.png
     author: Co-author
     topic: AI4Education
+
+  - image: ./assets/img/multimodality.png
+    author: Co-author
+    topic: AI&Multimodality

@@ -11,13 +11,14 @@
     {% if link.image %} 
     <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
     {% endif %}
-    {% if link.author %} 
-    <abbr class="badge">{{ link.author }}</abbr>
-    {% endif %}
-    <span style="margin: 100px;">&nbsp;</span>
-    {% if link.topic %} 
-    <abbr class="badge">{{ link.topic }}</abbr>
-    {% endif %}
+    <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      {% if link.author %} 
+      <abbr class="badge">{{ link.author }}</abbr>
+      {% endif %}
+      {% if link.topic %} 
+      <abbr class="badge">{{ link.topic }}</abbr>
+      {% endif %}
+    </div>
   </div>
 </div>
 </li>

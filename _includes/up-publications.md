@@ -13,10 +13,10 @@
     {% endif %}
     <div style="display: flex; flex-wrap: wrap; margin-top: 5px;">
       {% if link.author %} 
-        <abbr class="badge" style="margin-right: 5px;">{{ link.author }}</abbr>
+        <div> <abbr class="badge" style="margin-right: 5px;">{{ link.author }}</abbr> </div>
       {% endif %}
       {% if link.topic %} 
-        <abbr class="badge">{{ link.topic }}</abbr>
+        <div> <abbr class="badge">{{ link.topic }}</abbr> </div>
       {% endif %}
     </div>
   </div>

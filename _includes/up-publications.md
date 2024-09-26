@@ -1,6 +1,6 @@
 <h2 id="up-publications" style="margin: 2px 0px -15px;">Upcoming Publications</h2>
 
-<div class="up-publications">
+<div class="publications">
 <ol class="bibliography">
 
 {% for link in site.data.up-publications.main %}

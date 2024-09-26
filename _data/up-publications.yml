@@ -3,22 +3,3 @@ main:
     author: First-author
     topic: AI4Healthcare
 
-  - image: ./assets/img/TrialCompass.png
-    author: First-author
-    topic: ClinicalTrial
-  
-  - image: ./assets/img/EMINDS.png
-    author: First-author
-    topic: DigitalHealth
-
-  - image: ./assets/img/SynthLens.png
-    author: Co-author
-    topic: AI4Science
-
-  - image: ./assets/img/Engager.png
-    author: Co-author
-    topic: AI4Education
-
-- image: ./assets/img/multimodality.png
-    author: Co-author
-    topic: AI&Multimodality

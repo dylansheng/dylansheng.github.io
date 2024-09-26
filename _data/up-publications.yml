@@ -1,0 +1,30 @@
+main:
+  - title: "SciDaSynth: Interactive Structured Knowledge Extraction and Synthesis from Scientific Literature with Large Language Model"
+    authors: Xingbo Wang, Samantha L. Huey, <strong>Rui Sheng</strong>, Saurabh Mehta, Fei Wang
+    conference_short: Under review
+    conference: Under review.
+    pdf: https://arxiv.org/pdf/2404.13765
+    image: ./assets/img/underreview1.png
+
+  - title: "Knowledge Compass: A Question Answering System Guiding Students with Follow-Up Question Recommendations"
+    authors: <strong>Rui Sheng</strong>, Leni Yang, Haotian Li, Yan Luo, Ziyang Xu, Zhilan Zhou, David Gotz, Huamin Qu
+    conference_short: UIST demo
+    conference: ACM Symposium on User Interface Software and Technology (UIST), 2023.
+    pdf: https://drive.google.com/file/d/14ZvchOkE34fnj5pX2yw1RF6M1nRGhDJE/view?usp=sharing
+    video: https://www.youtube.com/watch?v=GFYlJ9I9Go4
+    image: ./assets/img/uistdemo23.jpg
+
+  - title: "Posts with no Response: The Island of Loneliness"
+    authors: Junxiu Tang, <strong>Rui Sheng</strong>, Yifang Wang, Xinhuan Shu, Xiaojiao Chen, Tan Tang, Yingcai Wu
+    conference_short: VISAP
+    conference: IEEE VIS Arts Program <strong>(accepted in two tracks - Pictorial and Artwork)</strong>, 2023.
+    pdf: https://wangyifang.top/static/media/vis23k-sub1032-i6.ea03e3b482a49b945996.pdf
+    video: https://wangyifang.top/static/media/video.c9ad132810478f771dd5.mp4
+    image: ./assets/img/visap23.jpg
+
+  - title: "Unsupervised Temporal Attention Summarization Model for User Created Videos"
+    authors: Min Hu, Ruimin Hu, Xiaocheng Wang, <strong>Rui Sheng</strong>
+    conference_short: MMM
+    conference: International Conference on Multimedia Modeling (MMM), 2021.
+    pdf: https://link.springer.com/chapter/10.1007/978-3-030-67832-6_42
+    image: ./assets/img/mmm21.png

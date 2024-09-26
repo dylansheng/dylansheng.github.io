@@ -11,7 +11,7 @@
     {% if link.image %} 
     <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
     {% endif %}
-    <div style="display: flex; flex-wrap: wrap; margin-top: 5px;">
+    <div style="position: absolute; bottom: 10px; left: 10px; display: flex; flex-wrap: wrap;">
       {% if link.author %}  
         <div class="badge">{{ link.author }}</div>
       {% endif %}

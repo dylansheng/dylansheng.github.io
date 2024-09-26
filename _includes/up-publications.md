@@ -11,12 +11,12 @@
     {% if link.image %} 
     <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
     {% endif %}
-    <div style="position: absolute; top: 2px; left: 10px; display: flex; flex-wrap: wrap;">
+    <div style="position: absolute; top: 10px; left: 2px; display: flex; flex-wrap: wrap;">
       {% if link.author %}  
-        <div class="badge">{{ link.author }}</div>
+        <div class="badge" style="background-color: #9b2226; color: #fff;">{{ link.author }}</div>
       {% endif %}
       {% if link.topic %} 
-        <div class="badge" style="background-color: #28a745; color: #fff;">{{ link.topic }}</div>
+        <div class="badge" style="background-color: #344e41; color: #fff;">{{ link.topic }}</div>
       {% endif %}
     </div>
   </div>

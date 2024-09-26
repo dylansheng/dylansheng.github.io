@@ -12,7 +12,7 @@
     <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="height: 123px; width: 175px">
     {% endif %}
       {% if link.topic %} 
-        <div class="badge" style="background-color: #ae2012; color: #fff; position: absolute; top: 8px; left: 16px; display: flex; flex-wrap: wrap;">{{ link.topic }}</div>
+        <div class="badge" style="background-color: #124559; color: #fff; position: absolute; top: 8px; left: 16px; display: flex; flex-wrap: wrap;">{{ link.topic }}</div>
       {% endif %}
   </div>
 </div>

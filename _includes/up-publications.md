@@ -13,7 +13,7 @@
     {% endif %}
     <div style="position: absolute; top: 8px; left: 16px; display: flex; flex-wrap: wrap;">
       {% if link.author %}  
-        <div class="badge" style="background-color: #9b2226; color: #fff; margin-right: 5px;">{{ link.author }}</div>
+        <div class="badge" style="background-color: #f67a2f; color: #fff; margin-right: 5px;">{{ link.author }}</div>
       {% endif %}
       {% if link.topic %} 
         <div class="badge" style="background-color: #344e41; color: #fff;">{{ link.topic }}</div>

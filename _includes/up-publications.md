@@ -3,6 +3,7 @@
 <div class="publications">
 <ol class="bibliography">
 
+<ul style="display: flex; flex-wrap: wrap; list-style-type: none; padding: 0;">
 {% for link in site.data.up-publications.main %}
 
 <li>
@@ -22,6 +23,7 @@
   </div>
 </div>
 </li>
+</ul>
 
 <br>
 

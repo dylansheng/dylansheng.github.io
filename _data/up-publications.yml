@@ -10,3 +10,11 @@ main:
   - image: ./assets/img/EMINDS.png
     author: First-author
     topic: Digital Health
+
+  - image: ./assets/img/SynthLens.png
+    author: Co-author
+    topic: AI4Science
+
+  - image: ./assets/img/Engager.png
+    author: Co-author
+    topic: AI4Education

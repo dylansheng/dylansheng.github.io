@@ -1,5 +1,5 @@
 <h2 id="up-publications" style="margin: 2px 0px -15px;">Upcoming Papers</h2>
-
+Here are some works that have been completed and are currently under review. We have not made them accessible to the public yet. Looking forward to some good news!
 <div class="publications">
 <ol class="bibliography">
 <ul style="display: flex; flex-wrap: wrap; list-style-type: none; padding: 0;">

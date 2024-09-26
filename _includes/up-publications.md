@@ -1,4 +1,4 @@
-<h2 id="up-publications" style="margin: 2px 0px -15px;">Upcoming Publications</h2>
+<h2 id="up-publications" style="margin: 2px 0px -15px;">Upcoming Papers</h2>
 
 <div class="publications">
 <ol class="bibliography">

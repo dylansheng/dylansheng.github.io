@@ -15,7 +15,7 @@
     <div style="margin-right: 10px;"> <abbr class="badge">{{ link.author }}</abbr> </div>
     {% endif %}
     {% if link.topic %} 
-    <abbr class="badge">{{ link.topic }}</abbr>
+    <div style="margin-right: 10px;"> <abbr class="badge">{{ link.topic }}</abbr> </div>
     {% endif %}
   </div>
 </div>

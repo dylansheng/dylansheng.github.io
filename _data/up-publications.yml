@@ -1,16 +1,24 @@
 main:
-  - image: ./assets/img/underreview1.png
-    author: first
-    topic: SciSci
+  - image: ./assets/img/DesignPatterns.png
+    author: First author
+    topic: AI4Healthcare
 
-  - image: ./assets/img/underreview1.png
-    author: first
-    topic: SciSci
+  - image: ./assets/img/TrialCompass.png
+    author: First author
+    topic: Clinical Trial
   
-  - image: ./assets/img/underreview1.png
-    author: first
-    topic: SciSci
+  - image: ./assets/img/EMINDS.png
+    author: First author
+    topic: Digital Health
 
-  - image: ./assets/img/underreview1.png
-    author: first
-    topic: SciSci
+  - image: ./assets/img/SynthLens.png
+    author: co-author
+    topic: AI4Science
+
+  - image: ./assets/img/Engager.png
+    author: co-author
+    topic: AI4Education
+
+- image: ./assets/img/multimodality.png
+    author: co-author
+    topic: AI&Multimodality

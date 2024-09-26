@@ -1,6 +1,6 @@
 <h2 id="ongoing-work" style="margin: 2px 0px -15px;">Ongoing Works</h2>
 
-<p style="margin: 10px 0;">
+<p style="margin: 25px 0;">
 I am currently working on several research projects. My primary focus is on the application of AI in healthcare, as well as assisting different end users (such as clinicians, patients, and healthcare-related researchers) in making informed decisions through visualization and HCI methods. In addition, I am working on AI4Science and AI4Education.
 </p>
 

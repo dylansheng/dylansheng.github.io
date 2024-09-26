@@ -12,7 +12,7 @@
     <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
     {% endif %}
     {% if link.author %} 
-    <abbr class="badge">{{ link.author }}</abbr>
+    <abbr class="badge", style="margin-right: 5px;">{{ link.author }}</abbr>
     {% endif %}
     {% if link.topic %} 
     <abbr class="badge">{{ link.topic }}</abbr>

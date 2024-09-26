@@ -5,7 +5,8 @@
 
 {% for link in site.data.up-publications.main %}
 
-<li>
+<ul style="display: flex; flex-wrap: wrap; list-style-type: none; padding: 0;">
+<li style="flex: 1 0 30%; margin: 10px; position: relative;">
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     {% if link.image %} 
@@ -22,6 +23,7 @@
   </div>
 </div>
 </li>
+</ul>
 
 <br>
 

@@ -1,10 +1,4 @@
 main:
-  - title: "SciDaSynth: Interactive Structured Knowledge Extraction and Synthesis from Scientific Literature with Large Language Model"
-    authors: Xingbo Wang, Samantha L. Huey, <strong>Rui Sheng</strong>, Saurabh Mehta, Fei Wang
-    conference_short: Under review
-    conference: Under review.
-    pdf: https://arxiv.org/pdf/2404.13765
-    image: ./assets/img/underreview1.png
 
   - title: "Knowledge Compass: A Question Answering System Guiding Students with Follow-Up Question Recommendations"
     authors: <strong>Rui Sheng</strong>, Leni Yang, Haotian Li, Yan Luo, Ziyang Xu, Zhilan Zhou, David Gotz, Huamin Qu

@@ -1,6 +1,6 @@
 main:
   - title: "SynthLens: Visual Analytics for Facilitating Multi-step Synthetic Route Design"
-    authors: Qipeng Wang, Rui Sheng, Shaolun Ruan, Xiaofu Jin, Chuhan Shi, Min Zhu
+    authors: Qipeng Wang, <strong>Rui Sheng</strong>, Shaolun Ruan, Xiaofu Jin, Chuhan Shi, Min Zhu
     conference_short: TVCG
     conference: IEEE Transactions on Visualization and Computer Graphics (TVCG), 2025
     pdf: https://arxiv.org/pdf/2412.00729

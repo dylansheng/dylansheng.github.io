@@ -15,7 +15,7 @@ main:
     author: First-author
     topic: LLM4Healthcare
 
-  - image: ./assets/img/SynthLens.png
+  - image: ./assets/img/SciSciCanvas.png
     author: Co-author
     topic: AI4Science
     

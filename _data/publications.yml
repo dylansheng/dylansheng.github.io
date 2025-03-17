@@ -1,6 +1,6 @@
 main:
   - title: "Empowering Multimodal Analysis with Visualization: A Survey"
-    authors: Jiachen Wang, Zikun Deng, Dazhen Deng, Xingbo Wang, <strong>Rui Sheng<strong>, Yi Cai, Huamin Qu
+    authors: Jiachen Wang, Zikun Deng, Dazhen Deng, Xingbo Wang, <strong>Rui Sheng</strong>, Yi Cai, Huamin Qu
     conference_short: CSR
     conference: Computer Science Review (IF=13.3), 2025
     image: ./assets/img/multimodality.png

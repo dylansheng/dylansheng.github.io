@@ -27,10 +27,6 @@ main:
     author: Co-author
     topic: AI4Education
 
-  - image: ./assets/img/multimodality.png
-    author: Co-author
-    topic: AI&Multimodality
-
   - image: ./assets/img/UnmaskingDeceptiveVisuals.png
     author: Co-author
     topic: LLM&Vis

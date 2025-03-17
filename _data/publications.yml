@@ -4,6 +4,7 @@ main:
     conference_short: CSR
     conference: Computer Science Review (IF=13.3), 2025
     image: ./assets/img/multimodality.png
+    pdf: ''
     
   - title: "SynthLens: Visual Analytics for Facilitating Multi-step Synthetic Route Design"
     authors: Qipeng Wang, <strong>Rui Sheng</strong>, Shaolun Ruan, Xiaofu Jin, Chuhan Shi, Min Zhu

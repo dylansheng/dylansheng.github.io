@@ -15,6 +15,10 @@ main:
     author: First-author
     topic: LLM4Healthcare
 
+  - image: ./assets/img/cellscout.png
+    author: First-author
+    topic: AI4Healthcare
+
   - image: ./assets/img/SciSciCanvas.png
     author: Co-author
     topic: AI4Science

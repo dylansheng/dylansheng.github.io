@@ -13,6 +13,12 @@ main:
     pdf: https://arxiv.org/pdf/2412.00729
     image: ./assets/img/SynthLens.png
 
+  - title: "Unmasking Deceptive Visuals: Benchmarking Multimodal Large Language Models on Misleading Chart Question Answering"
+    authors: Zixin Chen, Sicheng Song, Kashun Shum, Yanna Lin, <strong>Rui Sheng</strong>, Huamin Qu
+    image: ./assets/img/UnmaskingDeceptiveVisuals.png
+    conference_short: Under review
+    conference: Under review.
+    pdf: https://arxiv.org/pdf/2503.18172
     
   - title: "SciDaSynth: Interactive Structured Knowledge Extraction and Synthesis from Scientific Literature with Large Language Model"
     authors: Xingbo Wang, Samantha L. Huey, <strong>Rui Sheng</strong>, Saurabh Mehta, Fei Wang

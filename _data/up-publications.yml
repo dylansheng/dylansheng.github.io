@@ -22,6 +22,10 @@ main:
   - image: ./assets/img/SciSciCanvas.png
     author: Co-author
     topic: AI4Science
+
+  - image: ./assets/img/TrajLens.png
+    author: Co-author
+    topic: AI4Science
     
   - image: ./assets/img/ImaGene.png
     author: Co-author

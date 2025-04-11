@@ -4,6 +4,3 @@ main:
 
   - image: ./assets/img/science.png
     topic: AI4Science
-  
-  - image: ./assets/img/education.png
-    topic: AI4Education

@@ -31,6 +31,3 @@ main:
     author: Co-author
     topic: AI4Education
 
-  - image: ./assets/img/UnmaskingDeceptiveVisuals.png
-    author: Co-author
-    topic: LLM&Vis

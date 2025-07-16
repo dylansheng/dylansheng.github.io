@@ -1,24 +1,24 @@
 main:
   - title: "TrialCompass: Visual Analytics for Enhancing the Eligibility Criteria Design of Clinical Trials"
     authors: <strong>Rui Sheng</strong>, Xingbo Wang, Jiachen Wang, Xiaofu Jin, Zhonghua Sheng, Zhenxing Xu, Suraj Rajendran, Huamin Qu, and Fei Wang
-    conference_short: VIS
-    conference: IEEE VIS, 2025
+    conference_short: TVCG
+    conference: IEEE Transactions on Visualization and Computer Graphics (TVCG), 2025
     image: ./assets/img/TrialCompass.png
     pdf: 
+
+  - title: "Qualitative Study for LLM-assisted Design Study Process: Strategies, Challenges, and Roles"
+    authors: Shaolun Ruan, <strong>Rui Sheng</strong>, Xiaolin Wen, Jiachen Wang, Tianyi Zhang, Yong Wang, Tim Dwyer, and Jiannan Li
+    conference_short: TVCG
+    conference: IEEE Transactions on Visualization and Computer Graphics (TVCG), 2025
+    image: ./assets/img/LLMdesign.png
+    pdf: https://arxiv.org/pdf/2507.10024
     
   - title: "TrajLens: Visual Analytics for Constructing Cell Development Trajectories in Cross-Sample Analysis"
     authors: Qipeng Wang, Shaolun Ruan, <strong>Rui Sheng</strong>, Yong Wang, Min Zhu, and Huamin Qu
-    conference_short: VIS
-    conference: IEEE VIS, 2025
+    conference_short: TVCG
+    conference: IEEE Transactions on Visualization and Computer Graphics (TVCG), 2025
     image: ./assets/img/TrajLens.png
     pdf: 
-    
-  - title: "Qualitative Study for LLM-assisted Design Study Process: Strategies, Challenges, and Roles"
-    authors: Shaolun Ruan, <strong>Rui Sheng</strong>, Xiaolin Wen, Jiachen Wang, Tianyi Zhang, Yong Wang, Tim Dwyer, and Jiannan Li
-    conference_short: VIS
-    conference: IEEE VIS, 2025
-    image: ./assets/img/LLMdesign.png
-    pdf: https://arxiv.org/pdf/2507.10024
     
   - title: "Empowering Multimodal Analysis with Visualization: A Survey"
     authors: Jiachen Wang, Zikun Deng, Dazhen Deng, Xingbo Wang, <strong>Rui Sheng</strong>, Yi Cai, Huamin Qu

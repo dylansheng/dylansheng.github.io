@@ -16,6 +16,8 @@ I enjoy engaging in communication with others, not only limited to scientific re
 - **Decision making:** I specifically focus on sequential decision-making in crucial sectors, such as healthcare and e-learning.
 
 ## News
+- **[July, 2025]** Our two papers have been accepted for IEEE VIS 2025! (One with me as the second author and the other as the third author)
+- **[July, 2025]** My first-author paper, TrialCompass, has been accepted by IEEE VIS 25. See you in Vienna 🇦🇹!
 - **[Feb, 2025]** I have started my visiting journey at CMU, collaborating with [Prof. Perer](https://perer.org/)!
 - **[June, 2024]** Our research proposal [Visual Analytics of Student-AI Interaction Data for Generative AI-Assisted Learning](https://cerg1.ugc.edu.hk/cergprod/scrrm00541.jsp) was awarded approximately 1M HKD by the General Research Fund, the Research Grants Council (RGC) of Hong Kong!
 - **[Aug, 2023]** Our UIST demo paper (first author) has been accepted!

@@ -20,12 +20,19 @@ main:
     image: ./assets/img/TrajLens.png
     pdf: 
     
-  - title: "Empowering Multimodal Analysis with Visualization: A Survey"
-    authors: Jiachen Wang, Zikun Deng, Dazhen Deng, Xingbo Wang, <strong>Rui Sheng</strong>, Yi Cai, Huamin Qu
-    conference_short: CSR
-    conference: Computer Science Review (IF=13.3), 2025
-    image: ./assets/img/multimodality.png
-    pdf: https://www.sciencedirect.com/science/article/abs/pii/S1574013725000243
+  - title: "Design Patterns of Human-AI Interfaces in Healthcare"
+    authors: <strong>Rui Sheng</strong>, Chuhan Shi, Sobhan Lotfi, Shiyi Liu, Adam Perer, Huamin Qu, Furui Cheng
+    conference_short: Under review
+    conference: Under review.
+    image: ./assets/img/DesignPatterns.png
+    pdf: 
+
+  - title: "TrialCompass: Visual Analytics for Enhancing the Eligibility Criteria Design of Clinical Trials"
+    authors: <strong>Rui Sheng</strong>, Xingbo Wang, Jiachen Wang, Xiaofu Jin, Zhonghua Sheng, Zhenxing Xu, Suraj Rajendran, Huamin Qu, and Fei Wang
+    conference_short: TVCG
+    conference: IEEE Transactions on Visualization and Computer Graphics (TVCG), 2025
+    image: ./assets/img/TrialCompass.png
+    pdf: 
     
   - title: "SynthLens: Visual Analytics for Facilitating Multi-step Synthetic Route Design"
     authors: Qipeng Wang, <strong>Rui Sheng</strong>, Shaolun Ruan, Xiaofu Jin, Chuhan Shi, Min Zhu

@@ -4,7 +4,7 @@ main:
     conference_short: TVCG
     conference: IEEE Transactions on Visualization and Computer Graphics (TVCG), 2025
     image: ./assets/img/TrialCompass.png
-    pdf: 
+    pdf: https://arxiv.org/pdf/2507.12298
 
   - title: "Qualitative Study for LLM-assisted Design Study Process: Strategies, Challenges, and Roles"
     authors: Shaolun Ruan, <strong>Rui Sheng</strong>, Xiaolin Wen, Jiachen Wang, Tianyi Zhang, Yong Wang, Tim Dwyer, and Jiannan Li
@@ -25,13 +25,6 @@ main:
     conference_short: Under review
     conference: Under review.
     image: ./assets/img/DesignPatterns.png
-    pdf: 
-
-  - title: "TrialCompass: Visual Analytics for Enhancing the Eligibility Criteria Design of Clinical Trials"
-    authors: <strong>Rui Sheng</strong>, Xingbo Wang, Jiachen Wang, Xiaofu Jin, Zhonghua Sheng, Zhenxing Xu, Suraj Rajendran, Huamin Qu, and Fei Wang
-    conference_short: TVCG
-    conference: IEEE Transactions on Visualization and Computer Graphics (TVCG), 2025
-    image: ./assets/img/TrialCompass.png
     pdf: 
     
   - title: "SynthLens: Visual Analytics for Facilitating Multi-step Synthetic Route Design"

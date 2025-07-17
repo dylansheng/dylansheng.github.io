@@ -10,12 +10,24 @@ main:
   - image: ./assets/img/cellscout.png
     author: First-author
     topic: AI4Healthcare
+    
+  - image: ./assets/img/DiLLS.png
+    author: First-author
+    topic: Multi-agent
 
+  - image: ./assets/img/StoryLensEdu.png
+    author: Corresponding
+    topic: LLM4Education
+    
   - image: ./assets/img/SciSciCanvas.png
     author: Co-author
     topic: AI4Science
     
   - image: ./assets/img/ImaGene.png
+    author: Co-author
+    topic: AI4Healthcare
+
+  - image: ./assets/img/ConsistDDx.png
     author: Co-author
     topic: AI4Healthcare
 

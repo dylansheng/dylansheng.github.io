@@ -13,11 +13,12 @@ I enjoy engaging in communication with others, not only limited to scientific re
 
 - **Data Visualization:** I have a passion for developing visual analytics systems that empower decision-makers to make more efficient and informed choices.
 - **Human AI Collaboration:** I have a keen interest in studying the synergistic collaboration between humans and AI, with a particular focus on exploring how data visualization can serve as a bridge between the two.
-- **Decision making:** I specifically focus on sequential decision-making in crucial sectors, such as healthcare and e-learning.
+- **AI4Science:** I specifically focus on AI4Science, such as biomedicine and chemistry.
 
 ## News
 - **[July, 2025]** Our two papers have been accepted for IEEE VIS 2025! (One with me as the second author and the other as the third author)
 - **[July, 2025]** My first-author paper, TrialCompass, has been accepted by IEEE VIS 25. See you in Vienna 🇦🇹!
+- **[Mar, 2025]** Our TVCG paper (SynthLens: Visual Analytics for Facilitating Multi-step Synthetic Route Design) has been accepted!
 - **[Feb, 2025]** I have started my visiting journey at CMU, collaborating with [Prof. Perer](https://perer.org/)!
 - **[June, 2024]** Our research proposal [Visual Analytics of Student-AI Interaction Data for Generative AI-Assisted Learning](https://cerg1.ugc.edu.hk/cergprod/scrrm00541.jsp) was awarded approximately 1M HKD by the General Research Fund, the Research Grants Council (RGC) of Hong Kong!
 - **[Aug, 2023]** Our UIST demo paper (first author) has been accepted!

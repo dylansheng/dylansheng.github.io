@@ -25,7 +25,7 @@ main:
     conference_short: Under review
     conference: Under review.
     image: ./assets/img/DesignPatterns.png
-    pdf: 
+    pdf: https://arxiv.org/pdf/2507.12721
     
   - title: "SynthLens: Visual Analytics for Facilitating Multi-step Synthetic Route Design"
     authors: Qipeng Wang, <strong>Rui Sheng</strong>, Shaolun Ruan, Xiaofu Jin, Chuhan Shi, Min Zhu

@@ -18,7 +18,7 @@ main:
     conference_short: TVCG
     conference: IEEE Transactions on Visualization and Computer Graphics (TVCG), 2025
     image: ./assets/img/TrajLens.png
-    pdf: 
+    pdf: https://arxiv.org/pdf/2507.15620
     
   - title: "Design Patterns of Human-AI Interfaces in Healthcare"
     authors: <strong>Rui Sheng</strong>, Chuhan Shi, Sobhan Lotfi, Shiyi Liu, Adam Perer, Huamin Qu, Furui Cheng

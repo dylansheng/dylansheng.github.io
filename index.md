@@ -16,6 +16,8 @@ I enjoy engaging in communication with others, not only limited to scientific re
 - **AI4Science:** I specifically focus on AI4Science, such as biomedicine and chemistry.
 
 ## News
+- **[Aug, 2025]**: Our paper has been accepted for EMNLP 2025 (main)! Congrats team!
+- **[July, 2025]**: 🏅 Our paper won the IEEE VIS'25 Best Paper Honorable Mention Award. Congrats team!
 - **[July, 2025]** Our two papers have been accepted for IEEE VIS 2025! (One with me as the second author and the other as the third author)
 - **[July, 2025]** My first-author paper, TrialCompass, has been accepted by IEEE VIS 25. See you in Vienna 🇦🇹!
 - **[Mar, 2025]** Our TVCG paper (SynthLens: Visual Analytics for Facilitating Multi-step Synthetic Route Design) has been accepted!

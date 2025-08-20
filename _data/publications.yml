@@ -16,7 +16,7 @@ main:
   - title: "Qualitative Study for LLM-assisted Design Study Process: Strategies, Challenges, and Roles"
     authors: Shaolun Ruan, <strong>Rui Sheng</strong>, Xiaolin Wen, Jiachen Wang, Tianyi Zhang, Yong Wang, Tim Dwyer, and Jiannan Li
     conference_short: VIS
-    conference: IEEE VIS, 2025, 🏅IEEE VIS'25 Best Paper Honorable Mention)
+    conference: IEEE VIS, 2025, (🏅IEEE VIS'25 Best Paper Honorable Mention)
     image: ./assets/img/LLMdesign.png
     pdf: https://arxiv.org/pdf/2507.10024
     

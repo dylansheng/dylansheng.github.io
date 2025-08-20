@@ -3,7 +3,7 @@ main:
     authors: Zixin Chen, Sicheng Song, Kashun Shum, Yanna Lin, <strong>Rui Sheng</strong>, Huamin Qu
     image: ./assets/img/UnmaskingDeceptiveVisuals.png
     conference_short: EMNLP
-    conference: ACM Empirical Methods in Natural Language Processing.
+    conference: ACM Empirical Methods in Natural Language Processing, 2025.
     pdf: https://arxiv.org/pdf/2503.18172
     
   - title: "TrialCompass: Visual Analytics for Enhancing the Eligibility Criteria Design of Clinical Trials"
@@ -16,7 +16,7 @@ main:
   - title: "Qualitative Study for LLM-assisted Design Study Process: Strategies, Challenges, and Roles"
     authors: Shaolun Ruan, <strong>Rui Sheng</strong>, Xiaolin Wen, Jiachen Wang, Tianyi Zhang, Yong Wang, Tim Dwyer, and Jiannan Li
     conference_short: VIS
-    conference: IEEE VIS, 2025, (🏅IEEE VIS'25 Best Paper Honorable Mention)
+    conference: IEEE VIS, 2025, (🏅<span style="color:red">IEEE VIS'25 Best Paper Honorable Mention</span>)
     image: ./assets/img/LLMdesign.png
     pdf: https://arxiv.org/pdf/2507.10024
     

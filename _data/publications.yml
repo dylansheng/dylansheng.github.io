@@ -56,13 +56,6 @@ main:
     video: https://www.youtube.com/watch?v=GFYlJ9I9Go4
     image: ./assets/img/uistdemo23.jpg
 
-  - title: "Empowering Multimodal Analysis with Visualization: A Survey"
-    authors: Jiachen Wang, Zikun Deng, Dazhen Deng, Xingbo Wang, <strong>Rui Sheng</strong>, Yi Cai, Huamin Qu.
-    conference_short: CSR
-    conference: Computer Science Review (impact factor: 12.7), 2025.
-    pdf: https://www.sciencedirect.com/science/article/abs/pii/S1574013725000243
-    image: ./assets/img/multimodality.png
-
   - title: "Posts with no Response: The Island of Loneliness"
     authors: Junxiu Tang, <strong>Rui Sheng</strong>, Yifang Wang, Xinhuan Shu, Xiaojiao Chen, Tan Tang, Yingcai Wu
     conference_short: VISAP

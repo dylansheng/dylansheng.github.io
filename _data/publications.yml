@@ -43,8 +43,8 @@ main:
     
   - title: "SciDaSynth: Interactive Structured Knowledge Extraction and Synthesis from Scientific Literature with Large Language Model"
     authors: Xingbo Wang, Samantha L. Huey, <strong>Rui Sheng</strong>, Saurabh Mehta, Fei Wang
-    conference_short: Under review
-    conference: Under review.
+    conference_short: CSR
+    conference: Campbell Systematic Reviews, 2025.
     pdf: https://arxiv.org/pdf/2404.13765
     image: ./assets/img/underreview1.png
 
@@ -55,6 +55,13 @@ main:
     pdf: https://drive.google.com/file/d/14ZvchOkE34fnj5pX2yw1RF6M1nRGhDJE/view?usp=sharing
     video: https://www.youtube.com/watch?v=GFYlJ9I9Go4
     image: ./assets/img/uistdemo23.jpg
+
+  - title: "Empowering Multimodal Analysis with Visualization: A Survey"
+    authors: Jiachen Wang, Zikun Deng, Dazhen Deng, Xingbo Wang, <strong>Rui Sheng</strong>, Yi Cai, Huamin Qu.
+    conference_short: CSR
+    conference: Computer Science Review (impact factor: 12.7), 2025.
+    pdf: https://www.sciencedirect.com/science/article/abs/pii/S1574013725000243
+    image: ./assets/img/multimodality.png
 
   - title: "Posts with no Response: The Island of Loneliness"
     authors: Junxiu Tang, <strong>Rui Sheng</strong>, Yifang Wang, Xinhuan Shu, Xiaojiao Chen, Tan Tang, Yingcai Wu

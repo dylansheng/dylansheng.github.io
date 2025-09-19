@@ -3,7 +3,7 @@ main:
     authors: Zixin Chen, Sicheng Song, Kashun Shum, Yanna Lin, <strong>Rui Sheng</strong>, Huamin Qu
     image: ./assets/img/UnmaskingDeceptiveVisuals.png
     conference_short: EMNLP
-    conference: ACL Empirical Methods in Natural Language Processing (EMNLP, main), 2025, (🏅<span style="color:red">Oral, 3%</span>).
+    conference: ACL Empirical Methods in Natural Language Processing (EMNLP, main), 2025, (🏅<span style="color:red">Oral</span>).
     pdf: https://arxiv.org/pdf/2503.18172
     
   - title: "TrialCompass: Visual Analytics for Enhancing the Eligibility Criteria Design of Clinical Trials"

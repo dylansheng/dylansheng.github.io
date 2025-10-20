@@ -26,6 +26,13 @@ main:
     conference: IEEE VIS, 2025
     image: ./assets/img/TrajLens.png
     pdf: https://arxiv.org/pdf/2507.15620
+
+  - title: "A Survey of LLM-based Multi-agent Systems in Medicine"
+    authors: Yanna Lin, Shaojie Xu, Wenshuo Zhang, Yushi Sun, Zixin Chen, Yanjie Zhang, and <strong>Rui Sheng</strong>
+    conference_short: Under review
+    conference: Under review.
+    image: ./assets/img/MedicalAgentSurvey.png
+    pdf: https://www.techrxiv.org/doi/full/10.36227/techrxiv.176089343.36199495/v1
     
   - title: "Design Patterns of Human-AI Interfaces in Healthcare"
     authors: <strong>Rui Sheng</strong>, Chuhan Shi, Sobhan Lotfi, Shiyi Liu, Adam Perer, Huamin Qu, Furui Cheng

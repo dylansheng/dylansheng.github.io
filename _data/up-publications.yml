@@ -1,16 +1,4 @@
-main:
-  - image: ./assets/img/EMINDS.png
-    author: First-author
-    topic: Digital Health
-  
-  - image: ./assets/img/agentExplainer.png
-    author: First-author
-    topic: LLM4Healthcare
-
-  - image: ./assets/img/cellscout.png
-    author: First-author
-    topic: AI4Healthcare
-    
+main:    
   - image: ./assets/img/DiLLS.png
     author: First-author
     topic: Multi-agent

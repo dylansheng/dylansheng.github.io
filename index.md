@@ -5,9 +5,9 @@ layout: homepage
 ## About Me
 Nice to meet you! I am Rui SHENG (盛睿), currently a Ph.D. candidate in HKUST <a href="http://vis.cse.ust.hk/">VisLab</a>, at the Department of Computer Science and Engineering of the Hong Kong University of Science and Technology (HKUST), supervised by <a href="http://huamin.org/">Prof. Huamin Qu</a>. Before joining HKUST, I obtained my B.S. degree from Wuhan University in 2021 (rank 2/334). 
 
-My research interests lie in data visualization, human-AI collaboration, and decision-making, in particular focusing on how to leverage visual analytics to support decision-making in crucial sectors such as healthcare, science, and e-learning.
+My research interests focus on data visualization and human-AI collaboration, specifically in three key areas. First, I aim to enhance biomedical research by exploring methodologies that assist researchers in conducting more effective and efficient studies. Second, I investigate how human-AI collaboration can improve decision-making and outcomes in medical practice scenarios. Lastly, I am dedicated to developing intelligent tools that facilitate scientific discovery by interdisciplinary researchers.
 
-I enjoy engaging in communication with others, not only limited to scientific research. Feel free to reach out to me if you have any questions.
+I enjoy engaging in communication with others, not only limited to scientific research. Feel free to reach out to me if you have any questions. <span style="color:red">I am currently seeking a postdoctoral position starting in the fall of 2026!</span>
 
 ## Research Interests
 
@@ -19,6 +19,7 @@ I enjoy engaging in communication with others, not only limited to scientific re
 - **[Sept, 2025]**: Our paper has been accepted for Campbell Systematic Reviews! Congrats team!
 - **[Aug, 2025]**: Our paper has been accepted for EMNLP 2025 (main)! Congrats team!
 - **[July, 2025]**: 🏅 Our paper won the IEEE VIS'25 Best Paper Honorable Mention Award. Congrats team!
+- **[July, 2025]**: Awarded the HKUST Redbird Scholarship!
 - **[July, 2025]** Our two papers have been accepted for IEEE VIS 2025! (One with me as the second author and the other as the third author)
 - **[July, 2025]** My first-author paper, TrialCompass, has been accepted by IEEE VIS 25. See you in Vienna 🇦🇹!
 - **[Mar, 2025]** Our TVCG paper (SynthLens: Visual Analytics for Facilitating Multi-step Synthetic Route Design) has been accepted!

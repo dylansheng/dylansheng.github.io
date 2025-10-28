@@ -1,11 +1,11 @@
-<h2 id="up-publications" style="margin: 2px 0px -15px;">Upcoming Papers</h2>
+<h2 id="up-publications" style="margin: 2px 0px -15px;">Other Papers (Under Review)</h2>
 <p style="margin: 30px 0;">
 Here are some works that have been completed and are currently under review. We have not made them accessible to the public yet. Looking forward to some good news! In addition, please feel free to contact me if you are interested in those projects.
 </p>
 <div class="publications">
 <ol class="bibliography">
 <ul style="display: flex; flex-wrap: wrap; list-style-type: none; padding: 0;">
-{% for link in site.data.up-publications.main %}
+{% for link in site.data.other-publications.main %}
 
 <li>
 <div class="pub-row">

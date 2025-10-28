@@ -49,7 +49,7 @@ main:
   - title: "Design Patterns of Human-AI Interfaces in Healthcare"
     authors: <strong>Rui Sheng</strong>, Chuhan Shi, Sobhan Lotfi, Shiyi Liu, Adam Perer, Huamin Qu, Furui Cheng
     conference_short: IJHCS Major
-    conference: International Journal of Human-Computer Studies (IJHCS), Under review.
+    conference: International Journal of Human-Computer Studies (IJHCS), Major Revision, Under review.
     image: ./assets/img/DesignPatterns.png
     pdf: https://arxiv.org/pdf/2507.12721
     

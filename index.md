@@ -42,6 +42,8 @@ I enjoy engaging in communication with others, not only limited to scientific re
 
 {% include_relative _includes/up-publications.md %}
 
+{% include_relative _includes/other-publications.md %}
+
 {% include_relative _includes/collaborations.md %}
 
 {% include_relative _includes/projects.md %}

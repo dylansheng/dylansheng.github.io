@@ -1,0 +1,27 @@
+main:
+  - title: "EMINDS: Understanding User Behavior Progression for Mental Health Exploration on Social Media"
+    authors: <strong>Rui Sheng</strong>, Yifang Wang, Xingbo Wang, Shun Dai, Qingyu Guo, Tai-Quan Peng, Huamin Qu, and Dongyu Liu
+    conference_short: TVCG Minor
+    conference: IEEE Transactions on Visualization and Computer Graphics (TVCG), Minor Revision, Under Review
+    image: ./assets/img/EMINDS.png
+
+  - title: "CellScout: Visual Analytics for Mining Biomarkers in Cell State Discovery"
+    authors: <strong>Rui Sheng</strong>, Zelin Zang, Jiachen Wang, Yan Luo, Zixin Chen, Yan Zhou, Shaolun Ruan, and Huamin Qu
+    conference_short: TVCG Minor
+    conference: IEEE Transactions on Visualization and Computer Graphics (TVCG), Minor Revision, Under Review
+    image: ./assets/img/cellscout.png
+    
+  - title: "Design Patterns of Human-AI Interfaces in Healthcare"
+    authors: <strong>Rui Sheng</strong>, Chuhan Shi, Sobhan Lotfi, Shiyi Liu, Adam Perer, Huamin Qu, Furui Cheng
+    conference_short: IJHCS Major
+    conference: International Journal of Human-Computer Studies (IJHCS), Major Revision, Under review.
+    image: ./assets/img/DesignPatterns.png
+    pdf: https://arxiv.org/pdf/2507.12721
+
+  - title: "A Survey of LLM-based Multi-agent Systems in Medicine"
+    authors: Yanna Lin, Shaojie Xu, Wenshuo Zhang, Yushi Sun, Zixin Chen, Yanjie Zhang, and <strong>Rui Sheng</strong>
+    conference_short: Under review
+    conference: Under review.
+    image: ./assets/img/MedicalAgentSurvey.png
+    pdf: https://www.techrxiv.org/doi/full/10.36227/techrxiv.176089343.36199495/v1
+    

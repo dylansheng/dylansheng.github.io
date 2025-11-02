@@ -1,4 +1,10 @@
 main:
+  - title: "EMINDS: Understanding User Behavior Progression for Mental Health Exploration on Social Media"
+    authors: <strong>Rui Sheng</strong>, Yifang Wang, Xingbo Wang, Shun Dai, Qingyu Guo, Tai-Quan Peng, Huamin Qu, and Dongyu Liu
+    conference_short: TVCG
+    conference: IEEE Transactions on Visualization and Computer Graphics (TVCG), 2025
+    image: ./assets/img/EMINDS.png
+    
   - title: "Unmasking Deceptive Visuals: Benchmarking Multimodal Large Language Models on Misleading Chart Question Answering"
     authors: Zixin Chen, Sicheng Song, Kashun Shum, Yanna Lin, <strong>Rui Sheng</strong>, Huamin Qu
     image: ./assets/img/UnmaskingDeceptiveVisuals.png

@@ -16,6 +16,7 @@ I enjoy engaging in communication with others, not only limited to scientific re
 - **AI4Science:** I specifically focus on AI4Science, such as biomedicine and chemistry.
 
 ## News
+- **[Oct, 2025]**: My first-author paper has been accepted for IEEE TVCG 2025!
 - **[Sept, 2025]**: Our paper has been accepted for Campbell Systematic Reviews! Congrats team!
 - **[Aug, 2025]**: Our paper has been accepted for EMNLP 2025 (main)! Congrats team!
 - **[July, 2025]**: 🏅 Our paper won the IEEE VIS'25 Best Paper Honorable Mention Award. Congrats team!

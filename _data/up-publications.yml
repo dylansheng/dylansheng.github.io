@@ -1,10 +1,4 @@
 main:
-  - title: "EMINDS: Understanding User Behavior Progression for Mental Health Exploration on Social Media"
-    authors: <strong>Rui Sheng</strong>, Yifang Wang, Xingbo Wang, Shun Dai, Qingyu Guo, Tai-Quan Peng, Huamin Qu, and Dongyu Liu
-    conference_short: TVCG Minor
-    conference: IEEE Transactions on Visualization and Computer Graphics (TVCG), Minor Revision, Under Review
-    image: ./assets/img/EMINDS.png
-
   - title: "CellScout: Visual Analytics for Mining Biomarkers in Cell State Discovery"
     authors: <strong>Rui Sheng</strong>, Zelin Zang, Jiachen Wang, Yan Luo, Zixin Chen, Yan Zhou, Shaolun Ruan, and Huamin Qu
     conference_short: TVCG Minor

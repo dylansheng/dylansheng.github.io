@@ -4,6 +4,7 @@ main:
     conference_short: TVCG
     conference: IEEE Transactions on Visualization and Computer Graphics (TVCG), 2025
     image: ./assets/img/EMINDS.png
+    pdf: https://ieeexplore.ieee.org/document/11241218/
     
   - title: "Unmasking Deceptive Visuals: Benchmarking Multimodal Large Language Models on Misleading Chart Question Answering"
     authors: Zixin Chen, Sicheng Song, Kashun Shum, Yanna Lin, <strong>Rui Sheng</strong>, Huamin Qu

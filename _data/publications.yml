@@ -4,6 +4,7 @@ main:
     conference_short: TVCG
     conference: IEEE Transactions on Visualization and Computer Graphics (TVCG), 2025
     image: ./assets/img/cellscout.png
+    pdf: assets/files/CellScout.pdf
     
   - title: "EMINDS: Understanding User Behavior Progression for Mental Health Exploration on Social Media"
     authors: <strong>Rui Sheng</strong>, Yifang Wang, Xingbo Wang, Shun Dai, Qingyu Guo, Tai-Quan Peng, Huamin Qu, and Dongyu Liu

@@ -13,4 +13,10 @@ main:
     conference: Under review.
     image: ./assets/img/MedicalAgentSurvey.png
     pdf: https://www.techrxiv.org/doi/full/10.36227/techrxiv.176089343.36199495/v1
-    
+
+  - title: "MedKGI: Iterative Differential Diagnosis with Medical Knowledge Graphs and Information-Guided Inquiring"
+    authors: Qipeng Wang, <strong>Rui Sheng</strong>, Yafei Li, Huamin Qu, Yushi Sun, Min Zhu
+    conference_short: Under review
+    conference: Under review.
+    image: ./assets/img/MedKGI.png
+    pdf: https://arxiv.org/pdf/2512.24181

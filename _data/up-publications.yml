@@ -1,8 +1,8 @@
 main:
   - title: "A Survey of LLM-based Multi-agent Systems in Medicine"
-    authors: Yanna Lin, Shaojie Xu, Wenshuo Zhang, Yushi Sun, Zixin Chen, Yanjie Zhang, and <strong>Rui Sheng</strong>
+    authors: Yanna Lin, Shaojie Xu, Wenshuo Zhang, Yushi Sun, Zixin Chen, Yanjie Zhang, and <strong>Rui Sheng*</strong>
     conference_short: Under review
-    conference: Under review.
+    conference: Under review. (Corresponding Author)
     image: ./assets/img/MedicalAgentSurvey.png
     pdf: https://www.techrxiv.org/doi/full/10.36227/techrxiv.176089343.36199495/v1
 
@@ -12,3 +12,10 @@ main:
     conference: Under review.
     image: ./assets/img/MedKGI.png
     pdf: https://arxiv.org/pdf/2512.24181v2
+
+  - title: "A Survey of Human-AI Collaboration for Scientific Discovery"
+    authors: Chuhan Shi, Xiaoquan Ren, Yifang Wang, Junze Li, Yushi Sun, Yawen Luo, <strong>Rui Sheng*</strong>
+    conference_short: Under review
+    conference: Under review for ACL. (Corresponding Author)
+    image: ./assets/img/scidiscoverysurvey.png
+    pdf: https://www.preprints.org/frontend/manuscript/9a78b3edb30085474070c394eb943690/download_pub

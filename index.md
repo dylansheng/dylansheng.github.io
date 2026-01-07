@@ -16,14 +16,15 @@ I enjoy engaging in communication with others, not only limited to scientific re
 - **AI4Science:** I specifically focus on AI4Science, such as biomedicine and chemistry.
 
 ## News
-- **[Nov, 2025]**: My first-author paper (CellScout) has been accepted for IEEE TVCG 2025!
-- **[Oct, 2025]**: My first-author paper (EMINDS) has been accepted for IEEE TVCG 2025!
+- **[Jan, 2026]**: My first-author paper (Design Patterns of Human-AI Interfaces in Healthcare) has been accepted for IJHCS (CCF A)!
+- **[Nov, 2025]**: My first-author paper (CellScout) has been accepted for IEEE TVCG 2025 (CCF A)!
+- **[Oct, 2025]**: My first-author paper (EMINDS) has been accepted for IEEE TVCG 2025 (CCF A)!
 - **[Sept, 2025]**: Our paper has been accepted for Campbell Systematic Reviews! Congrats team!
 - **[Aug, 2025]**: Our paper has been accepted for EMNLP 2025 (main)! Congrats team!
 - **[July, 2025]**: 🏅 Our paper won the IEEE VIS'25 Best Paper Honorable Mention Award. Congrats team!
 - **[July, 2025]**: Awarded the HKUST Redbird Scholarship!
 - **[July, 2025]** Our two papers have been accepted for IEEE VIS 2025! (One with me as the second author and the other as the third author)
-- **[July, 2025]** My first-author paper, TrialCompass, has been accepted by IEEE VIS 25. See you in Vienna 🇦🇹!
+- **[July, 2025]** My first-author paper, TrialCompass, has been accepted by IEEE VIS 25 (CCF A). See you in Vienna 🇦🇹!
 - **[Mar, 2025]** Our TVCG paper (SynthLens: Visual Analytics for Facilitating Multi-step Synthetic Route Design) has been accepted!
 - **[Feb, 2025]** I have started my visiting journey at CMU, collaborating with [Prof. Perer](https://perer.org/)!
 - **[June, 2024]** Our research proposal [Visual Analytics of Student-AI Interaction Data for Generative AI-Assisted Learning](https://cerg1.ugc.edu.hk/cergprod/scrrm00541.jsp) was awarded approximately 1M HKD by the General Research Fund, the Research Grants Council (RGC) of Hong Kong!

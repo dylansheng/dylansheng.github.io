@@ -1,4 +1,11 @@
 main:
+  - title: "Design Patterns of Human-AI Interfaces in Healthcare"
+    authors: <strong>Rui Sheng</strong>, Chuhan Shi, Sobhan Lotfi, Shiyi Liu, Adam Perer, Huamin Qu, Furui Cheng
+    conference_short: IJHCS
+    conference: International Journal of Human-Computer Studies (IJHCS), 2026
+    image: ./assets/img/DesignPatterns.png
+    pdf: https://arxiv.org/pdf/2507.12721
+    
   - title: "CellScout: Visual Analytics for Mining Biomarkers in Cell State Discovery"
     authors: <strong>Rui Sheng</strong>, Zelin Zang, Jiachen Wang, Yan Luo, Zixin Chen, Yan Zhou, Shaolun Ruan, and Huamin Qu
     conference_short: TVCG

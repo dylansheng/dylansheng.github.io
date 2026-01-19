@@ -4,7 +4,7 @@ main:
     conference_short: IJHCS
     conference: International Journal of Human-Computer Studies (IJHCS), 2026
     image: ./assets/img/DesignPatterns.png
-    pdf: https://arxiv.org/pdf/2507.12721
+    pdf: https://www.sciencedirect.com/science/article/pii/S1071581926000121?dgcid=coauthor
     
   - title: "CellScout: Visual Analytics for Mining Biomarkers in Cell State Discovery"
     authors: <strong>Rui Sheng</strong>, Zelin Zang, Jiachen Wang, Yan Luo, Zixin Chen, Yan Zhou, Shaolun Ruan, and Huamin Qu

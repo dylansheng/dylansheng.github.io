@@ -16,6 +16,8 @@ I enjoy engaging in communication with others, not only limited to scientific re
 - **AI4Science:** I specifically focus on AI4Science, such as biomedicine and chemistry.
 
 ## News
+- **[Jan, 2026]**: I was honored to be invited by MSRA to give a talk on human–AI collaboration for biomedical scientific discovery.
+- **[Jan, 2026]**: My first-author paper (DiLLS) has been accepted for CHI (CCF A)!
 - **[Jan, 2026]**: My first-author paper (Design Patterns of Human-AI Interfaces in Healthcare) has been accepted for IJHCS (CCF A)!
 - **[Nov, 2025]**: My first-author paper (CellScout) has been accepted for IEEE TVCG 2025 (CCF A)!
 - **[Oct, 2025]**: My first-author paper (EMINDS) has been accepted for IEEE TVCG 2025 (CCF A)!

@@ -1,7 +1,7 @@
 main:    
-  - image: ./assets/img/DiLLS.png
-    author: First-author
-    topic: Multi-agent
+  - image: ./assets/img/MedLLMLens.png
+    author: Corresponding
+    topic: AI5Healthcare
 
   - image: ./assets/img/StoryLensEdu.png
     author: Corresponding

@@ -1,6 +1,6 @@
 main:
   - title: "DiLLS: Interactive Diagnosis of LLM-based Multi-agent Systems via Layered Summary of Agent Behaviors"
-    authors: <strong>Rui Sheng</strong>, Yukun Yang, Chuhan Shi, Yanna Lin, Zixin Chen, Huamin Qu, Furui Cheng
+    authors: <strong>Rui Sheng+</strong>, Yukun Yang+, Chuhan Shi, Yanna Lin, Zixin Chen, Huamin Qu, Furui Cheng
     conference_short: CHI
     conference: The ACM Conference on Human Factors in Computing Systems (CHI), 2026
     image: ./assets/img/DiLLS.png

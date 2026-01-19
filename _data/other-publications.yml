@@ -1,7 +1,7 @@
 main:    
   - image: ./assets/img/MedLLMLens.png
     author: Corresponding
-    topic: AI5Healthcare
+    topic: LLM4Healthcare
 
   - image: ./assets/img/StoryLensEdu.png
     author: Corresponding
@@ -9,7 +9,7 @@ main:
     
   - image: ./assets/img/SciSciCanvas.png
     author: Co-author
-    topic: AI4Science
+    topic: LLM4Science
     
   - image: ./assets/img/ImaGene.png
     author: Co-author
@@ -17,7 +17,7 @@ main:
 
   - image: ./assets/img/ConsistDDx.png
     author: Co-author
-    topic: AI4Healthcare
+    topic: LLM4Healthcare
 
   - image: ./assets/img/Engager.png
     author: Co-author

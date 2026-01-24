@@ -16,6 +16,7 @@ I enjoy engaging in communication with others, not only limited to scientific re
 - **AI4Science:** I specifically focus on AI4Science, such as biomedicine and chemistry.
 
 ## News
+- **[Jan, 2026]**: Our paper (StoryLensEdu) has been accepted for IEEE PacificVis! This paper is a collaborative effort with TrumpTech (Company), and I am honored to serve as the corresponding author.
 - **[Jan, 2026]**: I was honored to be invited by MSRA to give a talk on human–AI collaboration for biomedical scientific discovery.
 - **[Jan, 2026]**: My first-author paper (DiLLS) has been accepted for CHI (CCF A)!
 - **[Jan, 2026]**: My first-author paper (Design Patterns of Human-AI Interfaces in Healthcare) has been accepted for IJHCS (CCF A)!

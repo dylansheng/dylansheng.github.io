@@ -1,4 +1,10 @@
 main:
+  - title: "StoryLensEdu: Personalized Learning Report Generation through Narrative-Driven Multi-Agent Systems"
+    authors: Leixian Shen+, Yan Luo+, <strong>Rui Sheng*</strong>, Yujia He, Haotian Li, Leni Yang, Huamin Qu
+    conference_short: PacificVis
+    conference: IEEE Pacific Visualization Conference (PacificVis), 2026, Corresponding Author
+    image: ./assets/img/StoryLensEdu.png
+    
   - title: "DiLLS: Interactive Diagnosis of LLM-based Multi-agent Systems via Layered Summary of Agent Behaviors"
     authors: <strong>Rui Sheng+</strong>, Yukun Yang+, Chuhan Shi, Yanna Lin, Zixin Chen, Huamin Qu, Furui Cheng
     conference_short: CHI
@@ -13,14 +19,14 @@ main:
     pdf: https://www.sciencedirect.com/science/article/pii/S1071581926000121?dgcid=coauthor
     
   - title: "CellScout: Visual Analytics for Mining Biomarkers in Cell State Discovery"
-    authors: <strong>Rui Sheng</strong>, Zelin Zang, Jiachen Wang, Yan Luo, Zixin Chen, Yan Zhou, Shaolun Ruan, and Huamin Qu
+    authors: <strong>Rui Sheng</strong>, Zelin Zang, Jiachen Wang, Yan Luo, Zixin Chen, Yan Zhou, Shaolun Ruan, Huamin Qu
     conference_short: TVCG
     conference: IEEE Transactions on Visualization and Computer Graphics (TVCG), 2025
     image: ./assets/img/cellscout.png
     pdf: assets/files/CellScout.pdf
     
   - title: "EMINDS: Understanding User Behavior Progression for Mental Health Exploration on Social Media"
-    authors: <strong>Rui Sheng</strong>, Yifang Wang, Xingbo Wang, Shun Dai, Qingyu Guo, Tai-Quan Peng, Huamin Qu, and Dongyu Liu
+    authors: <strong>Rui Sheng</strong>, Yifang Wang, Xingbo Wang, Shun Dai, Qingyu Guo, Tai-Quan Peng, Huamin Qu, Dongyu Liu
     conference_short: TVCG
     conference: IEEE Transactions on Visualization and Computer Graphics (TVCG), 2025
     image: ./assets/img/EMINDS.png
@@ -34,21 +40,21 @@ main:
     pdf: https://arxiv.org/pdf/2503.18172
     
   - title: "TrialCompass: Visual Analytics for Enhancing the Eligibility Criteria Design of Clinical Trials"
-    authors: <strong>Rui Sheng</strong>, Xingbo Wang, Jiachen Wang, Xiaofu Jin, Zhonghua Sheng, Zhenxing Xu, Suraj Rajendran, Huamin Qu, and Fei Wang
+    authors: <strong>Rui Sheng</strong>, Xingbo Wang, Jiachen Wang, Xiaofu Jin, Zhonghua Sheng, Zhenxing Xu, Suraj Rajendran, Huamin Qu, Fei Wang
     conference_short: VIS
     conference: IEEE VIS, 2025
     image: ./assets/img/TrialCompass.png
     pdf: https://arxiv.org/pdf/2507.12298
 
   - title: "Qualitative Study for LLM-assisted Design Study Process: Strategies, Challenges, and Roles"
-    authors: Shaolun Ruan, <strong>Rui Sheng</strong>, Xiaolin Wen, Jiachen Wang, Tianyi Zhang, Yong Wang, Tim Dwyer, and Jiannan Li
+    authors: Shaolun Ruan, <strong>Rui Sheng</strong>, Xiaolin Wen, Jiachen Wang, Tianyi Zhang, Yong Wang, Tim Dwyer, Jiannan Li
     conference_short: VIS
     conference: IEEE VIS, 2025, (🏅<span style="color:red">IEEE VIS'25 Best Paper Honorable Mention</span>).
     image: ./assets/img/LLMdesign.png
     pdf: https://arxiv.org/pdf/2507.10024
     
   - title: "TrajLens: Visual Analytics for Constructing Cell Development Trajectories in Cross-Sample Analysis"
-    authors: Qipeng Wang, Shaolun Ruan, <strong>Rui Sheng</strong>, Yong Wang, Min Zhu, and Huamin Qu
+    authors: Qipeng Wang, Shaolun Ruan, <strong>Rui Sheng</strong>, Yong Wang, Min Zhu, Huamin Qu
     conference_short: VIS
     conference: IEEE VIS, 2025
     image: ./assets/img/TrajLens.png

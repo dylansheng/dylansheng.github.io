@@ -4,6 +4,7 @@ main:
     conference_short: PacificVis
     conference: IEEE Pacific Visualization Conference (PacificVis), 2026, Corresponding Author
     image: ./assets/img/StoryLensEdu.png
+    pdf: https://arxiv.org/pdf/2602.17067
     
   - title: "DiLLS: Interactive Diagnosis of LLM-based Multi-agent Systems via Layered Summary of Agent Behaviors"
     authors: <strong>Rui Sheng+</strong>, Yukun Yang+, Chuhan Shi, Yanna Lin, Zixin Chen, Huamin Qu, Furui Cheng

@@ -16,6 +16,7 @@ I enjoy engaging in communication with others, not only limited to scientific re
 - **AI4Science:** I specifically focus on AI4Science, such as biomedicine and chemistry.
 
 ## News
+- **[Feb, 2026]**: I have started my visiting journey at Tsinghua University, collaborating with [Prof. Yang Liu](https://nlp.csai.tsinghua.edu.cn/~ly/), who is the Dean of the Institute for AI Industry Research (AIR)!
 - **[Jan, 2026]**: Our paper (StoryLensEdu) has been accepted for IEEE PacificVis! This paper is a collaborative effort with TrumpTech (Company), and I am honored to serve as the corresponding author.
 - **[Jan, 2026]**: I was honored to be invited by MSRA to give a talk on human–AI collaboration for biomedical scientific discovery.
 - **[Jan, 2026]**: My first-author paper (DiLLS) has been accepted for CHI (CCF A)!
@@ -29,7 +30,7 @@ I enjoy engaging in communication with others, not only limited to scientific re
 - **[July, 2025]** Our two papers have been accepted for IEEE VIS 2025! (One with me as the second author and the other as the third author)
 - **[July, 2025]** My first-author paper, TrialCompass, has been accepted by IEEE VIS 25 (CCF A). See you in Vienna 🇦🇹!
 - **[Mar, 2025]** Our TVCG paper (SynthLens: Visual Analytics for Facilitating Multi-step Synthetic Route Design) has been accepted!
-- **[Feb, 2025]** I have started my visiting journey at CMU, collaborating with [Prof. Perer](https://perer.org/)!
+- **[Feb, 2025]** I have started my visiting journey at CMU, collaborating with [Prof. Adam Perer](https://perer.org/)!
 - **[June, 2024]** Our research proposal [Visual Analytics of Student-AI Interaction Data for Generative AI-Assisted Learning](https://cerg1.ugc.edu.hk/cergprod/scrrm00541.jsp) was awarded approximately 1M HKD by the General Research Fund, the Research Grants Council (RGC) of Hong Kong!
 - **[Aug, 2023]** Our UIST demo paper (first author) has been accepted!
 - **[July, 2023]** Our VISAP paper has been accepted!

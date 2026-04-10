@@ -4,8 +4,11 @@
 body {
   background-color: #fff;
   padding:0px;
-  font: 16.0px/1.5 Crimson Pro, serif; 
+  font: 16.0px/1.6 Crimson Pro, serif;
   color:#595959;
   font-weight:400;
-  margin:0
+  margin:0;
+  font-feature-settings: "kern" 1, "liga" 1, "onum" 1;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
 }

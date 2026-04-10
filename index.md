@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 Nice to meet you! I am Rui SHENG (盛睿), currently a Ph.D. candidate in HKUST <a href="http://vis.cse.ust.hk/">VisLab</a>, at the Department of Computer Science and Engineering of the Hong Kong University of Science and Technology (HKUST), supervised by <a href="http://huamin.org/">Prof. Huamin Qu</a>. Before joining HKUST, I obtained my B.S. degree from Wuhan University in 2021 (rank 2/334). 
 
-My research interests focus on data visualization and human-AI collaboration, specifically in three key areas. First, I aim to enhance biomedical research by exploring methodologies that assist researchers in conducting more effective and efficient studies. Second, I investigate how human-AI collaboration can improve decision-making and outcomes in medical practice scenarios. Lastly, I am dedicated to developing intelligent tools that facilitate scientific discovery by interdisciplinary researchers.
+My research interests focus on human-AI collaboration for Biomedicine (AI4Biomedicine). First, I aim to enhance biomedical research by exploring methodologies that assist researchers in conducting more effective and efficient studies. Second, I investigate how human-AI collaboration can improve decision-making and outcomes in medical practice scenarios. Lastly, I am dedicated to developing intelligent tools that facilitate scientific discovery by interdisciplinary researchers.
 
 I enjoy engaging in communication with others, not only limited to scientific research. Feel free to reach out to me if you have any questions. <span style="color:red">I am currently seeking a postdoctoral position starting in the fall of 2026!</span>
 
@@ -16,7 +16,7 @@ I enjoy engaging in communication with others, not only limited to scientific re
 - **AI4Science:** I specifically focus on AI4Science, such as biomedicine and chemistry.
 
 ## News
-- **[Feb, 2026]**: I have started my visiting journey at Tsinghua University, collaborating with [Prof. Yang Liu](https://nlp.csai.tsinghua.edu.cn/~ly/), who is the Dean of the Institute for AI Industry Research (AIR)!
+- **[Feb, 2026]**: I have started my visiting journey at the THUNLP Group, Tsinghua University, collaborating with [Prof. Yang Liu](https://nlp.csai.tsinghua.edu.cn/~ly/), who is the Dean of the Institute for AI Industry Research (AIR)!
 - **[Jan, 2026]**: Our paper (StoryLensEdu) has been accepted for IEEE PacificVis! This paper is a collaborative effort with TrumpTech (Company), and I am honored to serve as the corresponding author.
 - **[Jan, 2026]**: I was honored to be invited by MSRA to give a talk on human–AI collaboration for biomedical scientific discovery.
 - **[Jan, 2026]**: My first-author paper (DiLLS) has been accepted for CHI (CCF A)!

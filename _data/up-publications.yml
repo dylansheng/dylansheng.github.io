@@ -9,7 +9,7 @@ main:
   - title: "MedKGI: Iterative Differential Diagnosis with Medical Knowledge Graphs and Information-Guided Inquiring"
     authors: Qipeng Wang, <strong>Rui Sheng</strong>, Yafei Li, Huamin Qu, Yushi Sun, Min Zhu
     conference_short: Under review
-    conference: Under review for EMNLP.
+    conference: Under review.
     image: ./assets/img/MedKGI.png
     pdf: https://arxiv.org/pdf/2512.24181v2
 
@@ -23,7 +23,7 @@ main:
   - title: "Figures as Interfaces: Toward LLM-Native Artifacts for Scientific Discovery"
     authors: Yifang Wang, <strong>Rui Sheng</strong>, Erzhuo Shao, Yifan Qian, Haotian Li, Nan Cao, Dashun Wang
     conference_short: Under review
-    conference: Under review for Nature Computational Science.
+    conference: Under review.
     image: ./assets/img/SciSciCanvas.png
     pdf: https://arxiv.org/pdf/2604.08491
 
@@ -40,3 +40,10 @@ main:
     conference: Under review. (Corresponding Author)
     image: ./assets/img/MDTRoom.png
     pdf: https://arxiv.org/pdf/2603.28393
+
+  - title: "Navigating the Mirage: A Dual-Path Agentic Framework for Robust Misleading Chart Question Answering"
+    authors: Yanjie Zhang, Yafei Li, <strong>Rui Sheng</strong>, Zixin Chen, Yanna Lin, Huamin Qu, Lei Chen, Yushi Sun
+    conference_short: Under review
+    conference: Under review.
+    image: ./assets/img/misleading.png
+    pdf: https://arxiv.org/abs/2603.28583

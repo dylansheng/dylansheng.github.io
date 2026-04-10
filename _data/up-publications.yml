@@ -9,7 +9,7 @@ main:
   - title: "MedKGI: Iterative Differential Diagnosis with Medical Knowledge Graphs and Information-Guided Inquiring"
     authors: Qipeng Wang, <strong>Rui Sheng</strong>, Yafei Li, Huamin Qu, Yushi Sun, Min Zhu
     conference_short: Under review
-    conference: Under review.
+    conference: Under review for EMNLP.
     image: ./assets/img/MedKGI.png
     pdf: https://arxiv.org/pdf/2512.24181v2
 
@@ -21,8 +21,22 @@ main:
     pdf: https://d197for5662m48.cloudfront.net/documents/publicationstatus/300929/preprint_pdf/bbbc6d64456385471b6c7657b6d2bc50.pdf
 
   - title: "Figures as Interfaces: Toward LLM-Native Artifacts for Scientific Discovery"
-    authors: Yifang Wang, <strong>Rui Sheng*</strong>, Erzhuo Shao, Yifan Qian, Haotian Li, Nan Cao, and Dashun Wang
+    authors: Yifang Wang, <strong>Rui Sheng</strong>, Erzhuo Shao, Yifan Qian, Haotian Li, Nan Cao, Dashun Wang
     conference_short: Under review
-    conference: Under review.
+    conference: Under review for Nature Computational Science.
     image: ./assets/img/SciSciCanvas.png
     pdf: https://arxiv.org/pdf/2604.08491
+
+  - title: "InconLens: Interactive Visual Diagnosis of Behavioral Inconsistencies in LLM-based Agentic Systems"
+    authors: Shuo Yan, Xiaolin Wen, Shaolun Ruan, Yanjie Zhang, Jiaming Mi, Yushi Sun, Huamin Qu, <strong>Rui Sheng*</strong>
+    conference_short: Under review
+    conference: Under review. (Corresponding Author)
+    image: ./assets/img/InconLens.png
+    pdf: https://arxiv.org/pdf/2603.28106
+
+  - title: "Within the MDT Room: Situated in Multidisciplinary Team-Grounded Agent Debate for Clinical Diagnosis"
+    authors: Peng Kuai, Yukun Yang, Shaolun Ruan, Junchi Xu, Yanjie Zhang, Lin Zhang, Min Zhu, <strong>Rui Sheng*</strong>
+    conference_short: Under review
+    conference: Under review. (Corresponding Author)
+    image: ./assets/img/MDTRoom.png
+    pdf: https://arxiv.org/pdf/2603.28393

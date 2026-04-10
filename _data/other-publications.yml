@@ -2,14 +2,14 @@ main:
   - image: ./assets/img/AIvidence.png
     author: First-author
     topic: LLM4Healthcare
+
+  - image: ./assets/img/MolecularCanvas.png
+    author: Corresponding
+    topic: LLM4Science
     
   - image: ./assets/img/MedLLMLens.png
-    author: Corresponding
-    topic: LLM4Healthcare
-    
-  - image: ./assets/img/SciSciCanvas.png
     author: Co-author
-    topic: LLM4Science
+    topic: LLM4Healthcare
     
   - image: ./assets/img/ImaGene.png
     author: Co-author

@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-Nice to meet you! I am Rui SHENG (盛睿), currently a Ph.D. candidate in HKUST <a href="http://vis.cse.ust.hk/">VisLab</a>, at the Department of Computer Science and Engineering of the Hong Kong University of Science and Technology (HKUST), supervised by <a href="http://huamin.org/">Prof. Huamin Qu</a>. Before joining HKUST, I obtained my B.S. degree from Wuhan University in 2021 (rank 2/334). 
+Nice to meet you! I am Rui SHENG (盛睿), currently a Ph.D. candidate in HKUST <a href="http://vis.cse.ust.hk/">VisLab</a>, at the Department of Computer Science and Engineering of the Hong Kong University of Science and Technology (HKUST), supervised by <a href="http://huamin.org/">Prof. Huamin Qu</a>. Before joining HKUST, I obtained my B.S. degree from Wuhan University in 2021 (rank 2/334). I am also very honored to be closely supervised by [Prof. Adam Perer](https://perer.org/) at CMU and [Prof. Yang Liu](https://nlp.csai.tsinghua.edu.cn/~ly/) at the THUNLP Group, Tsinghua University. In addition, I maintain close collaborations with [Prof. Min Zhu](https://cs.scu.edu.cn/info/1279/19761.htm) at Sichuan University, [Prof. Chuhan Shi](https://shichuhan.github.io/) at Southeast University, and [Prof. Yifang Wang](https://wangyifang.top/) at Florida State University.
 
 My research interests focus on human-AI collaboration for Biomedicine (AI4Biomedicine). First, I aim to enhance biomedical research by exploring methodologies that assist researchers in conducting more effective and efficient studies. Second, I investigate how human-AI collaboration can improve decision-making and outcomes in medical practice scenarios. Lastly, I am dedicated to developing intelligent tools that facilitate scientific discovery by interdisciplinary researchers.
 
@@ -11,7 +11,6 @@ I enjoy engaging in communication with others, not only limited to scientific re
 
 ## Research Interests
 
-- **Data Visualization:** I have a passion for developing visual analytics systems that empower decision-makers to make more efficient and informed choices.
 - **Human AI Collaboration:** I have a keen interest in studying the synergistic collaboration between humans and AI, with a particular focus on exploring how data visualization can serve as a bridge between the two.
 - **AI4Science:** I specifically focus on AI4Science, such as biomedicine and chemistry.
 

@@ -11,9 +11,9 @@ I enjoy engaging in communication with others, not only limited to scientific re
 
 ## Research Interests
 
-- **Human AI Collaboration:** I have a keen interest in studying the synergistic collaboration between humans and AI, with a particular focus on exploring how data visualization can serve as a bridge between the two.
-- **AI4Science:** I am particularly interested in applying AI to scientific discovery in biomedicine and biochemistry, such as the discovery of novel drugs.
-- **AI4Healthcare:** I am interested in applying AI to healthcare, particularly for clinical decision-making, disease diagnosis, and patient simulation to support training, evaluation, and personalized care.
+- **<span class="text-rainbow-seven">Human AI Collaboration:</span>** I have a keen interest in studying the synergistic collaboration between humans and AI, with a particular focus on exploring how data visualization can serve as a bridge between the two.
+- **<span class="text-rainbow-seven">AI4Science</span>:** I am particularly interested in applying AI to scientific discovery in biomedicine and biochemistry, such as the discovery of novel drugs.
+- **<span class="text-rainbow-seven">AI4Healthcare</span>:** I am interested in applying AI to healthcare, particularly for clinical decision-making, disease diagnosis, and patient simulation to support training, evaluation, and personalized care.
 
 ## News
 

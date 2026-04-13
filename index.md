@@ -5,14 +5,15 @@ layout: homepage
 ## About Me
 Nice to meet you! I am Rui (Dylan) SHENG (盛睿), currently a final-year Ph.D. candidate in HKUST <a href="http://vis.cse.ust.hk/">VisLab</a>, at the Department of Computer Science and Engineering of the Hong Kong University of Science and Technology (HKUST), supervised by <a href="http://huamin.org/">Prof. Huamin Qu</a>. Before joining HKUST, I obtained my B.S. degree from Wuhan University in 2021 (rank 2/334). I am also very honored to be closely supervised by [Prof. Yang Liu](https://nlp.csai.tsinghua.edu.cn/~ly/) at the THUNLP Group, Tsinghua University. In addition, I maintain close collaborations with [Prof. Min Zhu](https://cs.scu.edu.cn/info/1279/19761.htm) at Sichuan University, [Prof. Chuhan Shi](https://shichuhan.github.io/) at Southeast University, and [Prof. Yifang Wang](https://wangyifang.top/) at Florida State University.
 
-My research interests focus on <span class="text-rainbow-seven">human-AI collaboration for Biomedicine/Biochemistry (AI4Biomedicine / AI4Biochemistry)</span>. First, I aim to enhance biomedical research by exploring methodologies that assist researchers in conducting more effective and efficient studies. Second, I investigate how human-AI collaboration can improve decision-making and outcomes in practice scenarios. Lastly, I am dedicated to developing intelligent tools that facilitate scientific discovery by interdisciplinary researchers.
+My research interests focus on human-AI collaboration for Science (specifically focus on <span class="text-rainbow-seven">AI4Biomedicine / AI4Biochemistry</span>) and Healthcare (<span class="text-rainbow-seven">AI4Healthcare</span>). First, I aim to enhance biomedical or biochemical research by exploring methodologies that assist researchers in conducting more effective and efficient studies. Second, I investigate how human-AI collaboration can improve decision-making and outcomes in practice scenarios for healthcare. Lastly, I am also dedicated to developing intelligent tools that facilitate general scientific discovery by interdisciplinary researchers.
 
 I enjoy engaging in communication with others, not only limited to scientific research. Feel free to reach out to me if you have any&nbsp;questions.&nbsp;<span class="callout-seeking"><span class="callout-seeking__text">I am currently seeking a postdoctoral position starting in the fall of 2026!</span></span>
 
 ## Research Interests
 
 - **Human AI Collaboration:** I have a keen interest in studying the synergistic collaboration between humans and AI, with a particular focus on exploring how data visualization can serve as a bridge between the two.
-- **AI4Science:** I specifically focus on AI4Science, such as biomedicine and chemistry.
+- **AI4Science:** I am particularly interested in applying AI to scientific discovery in biomedicine and biochemistry, such as the discovery of novel drugs.
+- **AI4Healthcare:** I am interested in applying AI to healthcare, particularly for clinical decision-making, disease diagnosis, and patient simulation to support training, evaluation, and personalized care.
 
 ## News
 

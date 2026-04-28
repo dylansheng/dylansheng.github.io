@@ -47,3 +47,10 @@ main:
     conference: Under review.
     image: ./assets/img/misleading.png
     pdf: https://arxiv.org/abs/2603.28583
+
+  - title: "VeriLLMed: Interactive Visual Debugging of Medical Large Language Models with Knowledge Graphs"
+    authors: Yurui Xiang, Xingyi Mao, <strong>Rui Sheng</strong>, Zixin Chen, Zelin Zang, Yuyang Wu, Haipeng Zeng, Huamin Qu, Yushi Sun, and Yanna Lin
+    conference_short: Under review
+    conference: Under review.
+    image: ./assets/img/VeriLLMed.png
+    pdf: https://arxiv.org/pdf/2604.23356

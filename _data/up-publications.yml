@@ -62,7 +62,7 @@ main:
     image: ./assets/img/STALE.png
     pdf: https://arxiv.org/pdf/2605.06527
 
-  - title: "STALE: Can LLM Agents Know When Their Memories Are No Longer Valid?"
+  - title: "Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows"
     authors: Zixin Chen, Peng Liu, <strong>Rui Sheng</strong>, Haobo Li, Jianhong Tu, Xiaodong Deng, Kashun Shum, Dayiheng Liu, Huamin Qu
     conference_short: Under review
     conference: Under review.

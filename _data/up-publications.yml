@@ -69,7 +69,7 @@ main:
     image: ./assets/img/EduAgentBench.png
     pdf: https://arxiv.org/pdf/2605.14322
 
-  - title: "Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows"
+  - title: "Not Just One Agent: Multi-Agent Systems for Medicine from Answer Generation to Accountable Workflow Orchestration"
     authors: Tianyi Xiong, Hanze Guo, <strong>Rui Sheng</strong>, Zelin Zang, Xingyin Li, Xingyu Chen, Haoyi Liu, Yue Liu, Xingrui Li, Ziqing Li, Yaying Du, Shaojie Xu
     conference_short: Under review
     conference: Under review.

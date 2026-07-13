@@ -75,3 +75,10 @@ main:
     conference: Under review.
     image: ./assets/img/medical-multi-agent.png
     pdf: https://www.preprints.org/frontend/manuscript/8ce564b11c60e5df1fcc2ff55495eecb/download_pub
+
+  - title: "WILDTRACE: Benchmarking Natural Evidence Trails in Long-Context Reasoning"
+    authors: Zixin Chen, Peng Liu, Haobo Li, <strong>Rui Sheng</strong>, Jianhong Tu, Xiaodong Deng, Fei Huang, Kashun Shum, Dayiheng Liu, Huamin Qu.
+    conference_short: Under review
+    conference: Under review.
+    image: ./assets/img/WildTrace.png
+    pdf: https://arxiv.org/pdf/2607.09328

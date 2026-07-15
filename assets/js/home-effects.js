@@ -157,7 +157,6 @@
   if (!nav) return;
 
   var MORE_IDS = {
-    "ongoing-work": true,
     "upcoming-publications": true,
     "up-publications": true,
     collaborations: true,

@@ -45,8 +45,6 @@ I enjoy engaging in communication with others, not only limited to scientific re
 - **[2018]** The First Prize of the 10th National College Mathematics Competition(Non-math Major).
 {: .news-timeline}
 
-{% include_relative _includes/ongoing-works.md %}
-
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/up-publications.md %}

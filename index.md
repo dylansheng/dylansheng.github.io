@@ -16,7 +16,7 @@ I enjoy engaging in communication with others, not only limited to scientific re
 - **<span class="text-rainbow-seven">HAI4Healthcare</span>:** I am interested in applying human-centered AI to healthcare, particularly for clinical decision-making, disease diagnosis, and patient simulation to support training, evaluation, and personalized care.
 
 ## News
-
+- **[July, 2026]**: Our paper (Navigating the Mirage: A Dual-Path Agentic Framework for Robust Misleading Chart Question Answering) has been accepted for ACM MM 2026! Congrats team!
 - **[Feb, 2026]**: I have started my visiting journey at the THUNLP Group, Tsinghua University, collaborating with [Prof. Yang Liu](https://nlp.csai.tsinghua.edu.cn/~ly/), who is the Dean of the Institute for AI Industry Research (AIR)!
 - **[Jan, 2026]**: Our paper (StoryLensEdu) has been accepted for IEEE PacificVis! This paper is a collaborative effort with TrumpTech (Company), and I am honored to serve as the corresponding author.
 - **[Jan, 2026]**: I was honored to be invited by MSRA to give a talk on human–AI collaboration for biomedical scientific discovery.

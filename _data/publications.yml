@@ -1,4 +1,11 @@
 main:
+  - title: "Navigating the Mirage: A Dual-Path Agentic Framework for Robust Misleading Chart Question Answering"
+    authors: Yanjie Zhang, Yafei Li, <strong>Rui Sheng</strong>, Zixin Chen, Yanna Lin, Huamin Qu, Lei Chen, Yushi Sun
+    conference_short: MM
+    conference: ACM Multimedia (MM), 2026.
+    image: ./assets/img/misleading.png
+    pdf: https://arxiv.org/abs/2603.28583
+    
   - title: "StoryLensEdu: Personalized Learning Report Generation through Narrative-Driven Multi-Agent Systems"
     authors: Leixian Shen+, Yan Luo+, <strong>Rui Sheng*</strong>, Yujia He, Haotian Li, Leni Yang, Huamin Qu
     conference_short: PacificVis

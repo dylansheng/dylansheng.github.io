@@ -1045,16 +1045,27 @@ body.academic-home {
     display: none; } }
 ul.news-timeline {
   list-style: none;
-  padding-left: 0;
-  margin-left: 0;
-  border-left: 2px solid rgba(74, 127, 168, 0.18);
-  padding-left: 1.15rem; }
+  margin: 0.45rem 0 1.65rem;
+  max-height: 330px;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  padding: 1rem 1rem 0.95rem 1.45rem;
+  border: 1px solid rgba(115, 155, 185, 0.24);
+  border-left: 3px solid rgba(74, 127, 168, 0.26);
+  border-radius: 8px;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.82) 0%, rgba(248, 252, 255, 0.74) 100%);
+  box-shadow: 0 10px 24px rgba(48, 86, 118, 0.08);
+  scrollbar-color: rgba(95, 140, 175, 0.48) transparent;
+  scrollbar-width: thin; }
 
 ul.news-timeline li {
   position: relative;
   padding-left: 0.15rem;
   margin-bottom: 0.78rem;
   line-height: 1.55; }
+
+ul.news-timeline li:last-child {
+  margin-bottom: 0; }
 
 /* Date badge: markdown uses ** [Mon, Y] ** for the leading date */
 ul.news-timeline li strong {
@@ -1084,9 +1095,24 @@ ul.news-timeline li::before {
   background: #7aa3c0;
   box-shadow: 0 0 0 3px rgba(120, 160, 190, 0.2); }
 
+ul.news-timeline::-webkit-scrollbar {
+  width: 9px; }
+
+ul.news-timeline::-webkit-scrollbar-track {
+  background: transparent; }
+
+ul.news-timeline::-webkit-scrollbar-thumb {
+  background: rgba(95, 140, 175, 0.42);
+  border: 2px solid rgba(255, 255, 255, 0.78);
+  border-radius: 999px; }
+
 @media (prefers-color-scheme: dark) {
   ul.news-timeline {
-    border-left-color: rgba(130, 200, 230, 0.32); }
+    border-color: rgba(130, 200, 230, 0.22);
+    border-left-color: rgba(130, 200, 230, 0.36);
+    background: linear-gradient(180deg, rgba(31, 40, 55, 0.76) 0%, rgba(24, 32, 45, 0.72) 100%);
+    box-shadow: 0 10px 24px rgba(0, 0, 0, 0.18);
+    scrollbar-color: rgba(130, 200, 230, 0.44) transparent; }
 
   ul.news-timeline li strong {
     color: #b8e4fc !important;
@@ -1096,7 +1122,15 @@ ul.news-timeline li::before {
 
   ul.news-timeline li::before {
     background: #6ec3eb;
-    box-shadow: 0 0 0 3px rgba(110, 195, 235, 0.18); } }
+    box-shadow: 0 0 0 3px rgba(110, 195, 235, 0.18); }
+
+  ul.news-timeline::-webkit-scrollbar-thumb {
+    background: rgba(130, 200, 230, 0.36);
+    border-color: rgba(25, 34, 48, 0.78); } }
+@media screen and (max-width: 720px) {
+  ul.news-timeline {
+    max-height: 280px;
+    padding: 0.9rem 0.85rem 0.85rem 1.35rem; } }
 /* Wider layout: use horizontal space on large screens */
 @media screen and (min-width: 961px) {
   .academic-home .wrapper {

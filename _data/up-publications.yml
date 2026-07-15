@@ -41,13 +41,6 @@ main:
     image: ./assets/img/MDTRoom.png
     pdf: https://arxiv.org/pdf/2603.28393
 
-  - title: "Navigating the Mirage: A Dual-Path Agentic Framework for Robust Misleading Chart Question Answering"
-    authors: Yanjie Zhang, Yafei Li, <strong>Rui Sheng</strong>, Zixin Chen, Yanna Lin, Huamin Qu, Lei Chen, Yushi Sun
-    conference_short: Under review
-    conference: Under review.
-    image: ./assets/img/misleading.png
-    pdf: https://arxiv.org/abs/2603.28583
-
   - title: "VeriLLMed: Interactive Visual Debugging of Medical Large Language Models with Knowledge Graphs"
     authors: Yurui Xiang, Xingyi Mao, <strong>Rui Sheng</strong>, Zixin Chen, Zelin Zang, Yuyang Wu, Haipeng Zeng, Huamin Qu, Yushi Sun, Yanna Lin
     conference_short: Under review
@@ -82,3 +75,10 @@ main:
     conference: Under review.
     image: ./assets/img/WildTrace.png
     pdf: https://arxiv.org/pdf/2607.09328
+
+  - title: "Are LLMs Ready for Scientific Discovery? A Capability-Oriented Benchmark for AI Scientists"
+    authors: Chuhan Shi, Xiaoquan Ren, Sicheng Song, Haobo Li, <strong>Rui Sheng*</strong>, Yushi Sun*
+    conference_short: Under review
+    conference: Under review.
+    image: ./assets/img/SDABench.png
+    pdf: https://arxiv.org/pdf/2607.11079

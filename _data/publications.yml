@@ -1,4 +1,18 @@
 main:
+  - title: "CellPrism: A Visual Analytics System for Exploring AI-Driven Virtual Cells in Drug Discovery"
+    authors: Chuhan Shi, Zijian Guo, Zelin Zang, Chengbo Zheng, Ding Ding, <strong>Rui Sheng*</strong>
+    conference_short: VIS
+    conference: IEEE VIS, 2026, Corresponding Author (Score: 4, 5, 5).
+    image: ./assets/img/CellPrism.png
+    pdf:
+    
+ - title: "VeriLLMed: Interactive Visual Debugging of Medical Large Language Models with Knowledge Graphs"
+    authors: Yurui Xiang, Xingyi Mao, <strong>Rui Sheng</strong>, Zixin Chen, Zelin Zang, Yuyang Wu, Haipeng Zeng, Huamin Qu, Yushi Sun, Yanna Lin
+    conference_short: VIS
+    conference: IEEE VIS, 2026.
+    image: ./assets/img/VeriLLMed.png
+    pdf: https://arxiv.org/pdf/2604.23356
+    
   - title: "Navigating the Mirage: A Dual-Path Agentic Framework for Robust Misleading Chart Question Answering"
     authors: Yanjie Zhang, Yafei Li, <strong>Rui Sheng</strong>, Zixin Chen, Yanna Lin, Huamin Qu, Lei Chen, Yushi Sun
     conference_short: MM
@@ -9,35 +23,35 @@ main:
   - title: "StoryLensEdu: Personalized Learning Report Generation through Narrative-Driven Multi-Agent Systems"
     authors: Leixian Shen+, Yan Luo+, <strong>Rui Sheng*</strong>, Yujia He, Haotian Li, Leni Yang, Huamin Qu
     conference_short: PacificVis
-    conference: IEEE Pacific Visualization Conference (PacificVis), 2026, Corresponding Author
+    conference: IEEE Pacific Visualization Conference (PacificVis), 2026, Corresponding Author.
     image: ./assets/img/StoryLensEdu.png
     pdf: https://arxiv.org/pdf/2602.17067
     
   - title: "DiLLS: Interactive Diagnosis of LLM-based Multi-agent Systems via Layered Summary of Agent Behaviors"
     authors: <strong>Rui Sheng+</strong>, Yukun Yang+, Chuhan Shi, Yanna Lin, Zixin Chen, Huamin Qu, Furui Cheng
     conference_short: CHI
-    conference: The ACM Conference on Human Factors in Computing Systems (CHI), 2026
+    conference: The ACM Conference on Human Factors in Computing Systems (CHI), 2026.
     image: ./assets/img/DiLLS.png
     pdf: https://arxiv.org/pdf/2602.05446
     
   - title: "Design Patterns of Human-AI Interfaces in Healthcare"
     authors: <strong>Rui Sheng</strong>, Chuhan Shi, Sobhan Lotfi, Shiyi Liu, Adam Perer, Huamin Qu, Furui Cheng
     conference_short: IJHCS
-    conference: International Journal of Human-Computer Studies (IJHCS), 2026
+    conference: International Journal of Human-Computer Studies (IJHCS), 2026.
     image: ./assets/img/DesignPatterns.png
     pdf: https://arxiv.org/pdf/2507.12721
     
   - title: "CellScout: Visual Analytics for Mining Biomarkers in Cell State Discovery"
     authors: <strong>Rui Sheng</strong>, Zelin Zang, Jiachen Wang, Yan Luo, Zixin Chen, Yan Zhou, Shaolun Ruan, Huamin Qu
     conference_short: TVCG
-    conference: IEEE Transactions on Visualization and Computer Graphics (TVCG), 2025
+    conference: IEEE Transactions on Visualization and Computer Graphics (TVCG), 2025.
     image: ./assets/img/cellscout.png
     pdf: assets/files/CellScout.pdf
     
   - title: "EMINDS: Understanding User Behavior Progression for Mental Health Exploration on Social Media"
     authors: <strong>Rui Sheng</strong>, Yifang Wang, Xingbo Wang, Shun Dai, Qingyu Guo, Tai-Quan Peng, Huamin Qu, Dongyu Liu
     conference_short: TVCG
-    conference: IEEE Transactions on Visualization and Computer Graphics (TVCG), 2025
+    conference: IEEE Transactions on Visualization and Computer Graphics (TVCG), 2025.
     image: ./assets/img/EMINDS.png
     pdf: https://ieeexplore.ieee.org/document/11241218/
     
@@ -51,7 +65,7 @@ main:
   - title: "TrialCompass: Visual Analytics for Enhancing the Eligibility Criteria Design of Clinical Trials"
     authors: <strong>Rui Sheng</strong>, Xingbo Wang, Jiachen Wang, Xiaofu Jin, Zhonghua Sheng, Zhenxing Xu, Suraj Rajendran, Huamin Qu, Fei Wang
     conference_short: VIS
-    conference: IEEE VIS, 2025
+    conference: IEEE VIS, 2025.
     image: ./assets/img/TrialCompass.png
     pdf: https://arxiv.org/pdf/2507.12298
 
@@ -65,14 +79,14 @@ main:
   - title: "TrajLens: Visual Analytics for Constructing Cell Development Trajectories in Cross-Sample Analysis"
     authors: Qipeng Wang, Shaolun Ruan, <strong>Rui Sheng</strong>, Yong Wang, Min Zhu, Huamin Qu
     conference_short: VIS
-    conference: IEEE VIS, 2025
+    conference: IEEE VIS, 2025.
     image: ./assets/img/TrajLens.png
     pdf: https://arxiv.org/pdf/2507.15620
     
   - title: "SynthLens: Visual Analytics for Facilitating Multi-step Synthetic Route Design"
     authors: Qipeng Wang, <strong>Rui Sheng</strong>, Shaolun Ruan, Xiaofu Jin, Chuhan Shi, Min Zhu
     conference_short: TVCG
-    conference: IEEE Transactions on Visualization and Computer Graphics (TVCG), 2025
+    conference: IEEE Transactions on Visualization and Computer Graphics (TVCG), 2025.
     pdf: https://arxiv.org/pdf/2412.00729
     image: ./assets/img/SynthLens.png
     

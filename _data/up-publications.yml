@@ -41,13 +41,6 @@ main:
     image: ./assets/img/MDTRoom.png
     pdf: https://arxiv.org/pdf/2603.28393
 
-  - title: "VeriLLMed: Interactive Visual Debugging of Medical Large Language Models with Knowledge Graphs"
-    authors: Yurui Xiang, Xingyi Mao, <strong>Rui Sheng</strong>, Zixin Chen, Zelin Zang, Yuyang Wu, Haipeng Zeng, Huamin Qu, Yushi Sun, Yanna Lin
-    conference_short: Under review
-    conference: Under review.
-    image: ./assets/img/VeriLLMed.png
-    pdf: https://arxiv.org/pdf/2604.23356
-
   - title: "STALE: Can LLM Agents Know When Their Memories Are No Longer Valid?"
     authors: Hanxiang Chao, Yihan Bai, <strong>Rui Sheng</strong>, Tianle Li, Yushi Sun
     conference_short: Under review

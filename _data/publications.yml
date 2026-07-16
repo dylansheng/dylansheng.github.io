@@ -2,7 +2,7 @@ main:
   - title: "CellPrism: A Visual Analytics System for Exploring AI-Driven Virtual Cells in Drug Discovery"
     authors: Chuhan Shi, Zijian Guo, Zelin Zang, Chengbo Zheng, Ding Ding, <strong>Rui Sheng*</strong>
     conference_short: VIS
-    conference: IEEE VIS, 2026, Corresponding Author (Score: 4, 5, 5).
+    conference: IEEE VIS, 2026, Corresponding Author (Score/5: 4, 5, 5).
     image: ./assets/img/CellPrism.png
     pdf:
     

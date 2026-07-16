@@ -2,9 +2,8 @@ main:
   - title: "CellPrism: A Visual Analytics System for Exploring AI-Driven Virtual Cells in Drug Discovery"
     authors: Chuhan Shi, Zijian Guo, Zelin Zang, Chengbo Zheng, Ding Ding, <strong>Rui Sheng*</strong>
     conference_short: VIS
-    conference: IEEE VIS, 2026, Corresponding Author (Score/5: 4, 5, 5).
+    conference: IEEE VIS, 2026, <strong>Corresponding Author (Score/5: 4, 5, 5)</strong>.
     image: ./assets/img/CellPrism.png
-    pdf:
     
  - title: "VeriLLMed: Interactive Visual Debugging of Medical Large Language Models with Knowledge Graphs"
     authors: Yurui Xiang, Xingyi Mao, <strong>Rui Sheng</strong>, Zixin Chen, Zelin Zang, Yuyang Wu, Haipeng Zeng, Huamin Qu, Yushi Sun, Yanna Lin
@@ -23,7 +22,7 @@ main:
   - title: "StoryLensEdu: Personalized Learning Report Generation through Narrative-Driven Multi-Agent Systems"
     authors: Leixian Shen+, Yan Luo+, <strong>Rui Sheng*</strong>, Yujia He, Haotian Li, Leni Yang, Huamin Qu
     conference_short: PacificVis
-    conference: IEEE Pacific Visualization Conference (PacificVis), 2026, Corresponding Author.
+    conference: IEEE Pacific Visualization Conference (PacificVis), 2026, <strong>Corresponding Author</strong>.
     image: ./assets/img/StoryLensEdu.png
     pdf: https://arxiv.org/pdf/2602.17067
     

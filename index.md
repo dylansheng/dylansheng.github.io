@@ -3,15 +3,26 @@ layout: homepage
 ---
 
 ## About Me
-Nice to meet you! I am Rui (Dylan) SHENG (盛睿), currently a final-year Ph.D. candidate in HKUST <a href="http://vis.cse.ust.hk/">VisLab</a>, at the Department of Computer Science and Engineering of the Hong Kong University of Science and Technology (HKUST), supervised by <a href="http://huamin.org/">Prof. Huamin Qu</a>. Before joining HKUST, I obtained my B.S. degree from Wuhan University in 2021 (rank 2/334). I am also very honored to be closely supervised by [Prof. Yang Liu](https://nlp.csai.tsinghua.edu.cn/~ly/) at the THUNLP Group, Tsinghua University and [Prof. Adam Perer](https://perer.org/) at Carnegie Mellon University. In addition, I maintain close collaborations with [Prof. Min Zhu](https://cs.scu.edu.cn/info/1279/19761.htm) at Sichuan University, [Prof. Chuhan Shi](https://shichuhan.github.io/) at Southeast University, and [Prof. Yifang Wang](https://wangyifang.top/) at Florida State University.
+I am Rui (Dylan) SHENG (盛睿), a final-year Ph.D. candidate in Computer Science and Engineering at the Hong Kong University of Science and Technology. I am a member of the [HKUST VisLab](http://vis.cse.ust.hk/), advised by [Prof. Huamin Qu](http://huamin.org/).
 
-My research interests focus on human-AI collaboration for Science (specifically focused on <span class="text-rainbow-seven">HAI4Biomedicine / HAI4Biochemistry</span>) and Healthcare (<span class="text-rainbow-seven">HAI4Healthcare</span>). First, I aim to enhance biomedical or biochemical research by exploring methodologies that assist researchers in conducting more effective and efficient studies. Second, I investigate how human-AI collaboration can improve decision-making and outcomes in practice scenarios for healthcare. Lastly, I am also dedicated to developing intelligent tools that facilitate general scientific discovery by interdisciplinary researchers. I enjoy engaging in communication with others, not limited to scientific research. Feel free to reach out to me if you have any questions.
+My research develops human-centered AI and visual analytics for biomedical discovery and healthcare. Before joining HKUST, I received my B.S. from Wuhan University in 2021 (rank 2/334). I am also very honored to be closely supervised by [Prof. Yang Liu](https://nlp.csai.tsinghua.edu.cn/~ly/) at the THUNLP Group, Tsinghua University and [Prof. Adam Perer](https://perer.org/) at Carnegie Mellon University. In addition, I maintain close collaborations with [Prof. Min Zhu](https://cs.scu.edu.cn/info/1279/19761.htm) at Sichuan University, [Prof. Chuhan Shi](https://shichuhan.github.io/) at Southeast University, and [Prof. Yifang Wang](https://wangyifang.top/) at Florida State University.
 
 ## Research Interests
 
-- **<span class="text-rainbow-seven">Human AI Collaboration:</span>** I have a keen interest in studying the synergistic collaboration between humans and AI, with a particular focus on exploring how data visualization can serve as a bridge between the two.
-- **<span class="text-rainbow-seven">HAI4Science</span>:** I am particularly interested in applying human-centered AI to scientific discovery in biomedicine and biochemistry, such as the discovery of novel drugs.
-- **<span class="text-rainbow-seven">HAI4Healthcare</span>:** I am interested in applying human-centered AI to healthcare, particularly for clinical decision-making, disease diagnosis, and patient simulation to support training, evaluation, and personalized care.
+<div class="research-areas">
+  <div class="research-area">
+    <h3>Human–AI Collaboration</h3>
+    <p>Interactive and visual systems that help people reason with AI.</p>
+  </div>
+  <div class="research-area">
+    <h3>AI for Science</h3>
+    <p>Human-centered methods for biomedicine and biochemistry.</p>
+  </div>
+  <div class="research-area">
+    <h3>AI for Healthcare</h3>
+    <p>Clinical decision support and simulation for clinical practice.</p>
+  </div>
+</div>
 
 ## News
 - **[July, 2026]**: Our two papers (CellPrism and VeriLLMed) have been accepted for IEEE VIS 2026! Congrats to the two amazing teams! I am the corresponding author of CellPrism.
@@ -21,6 +32,12 @@ My research interests focus on human-AI collaboration for Science (specifically 
 - **[Jan, 2026]**: I was honored to be invited by MSRA to give a talk on human–AI collaboration for biomedical scientific discovery.
 - **[Jan, 2026]**: My first-author paper (DiLLS) has been accepted for CHI (CCF A)!
 - **[Jan, 2026]**: My first-author paper (Design Patterns of Human-AI Interfaces in Healthcare) has been accepted for IJHCS (CCF A)!
+{: .news-timeline}
+
+<details class="news-archive">
+<summary>Earlier news (2021–2025)</summary>
+<div markdown="1">
+
 - **[Nov, 2025]**: My first-author paper (CellScout) has been accepted for IEEE TVCG 2025 (CCF A)!
 - **[Oct, 2025]**: My first-author paper (EMINDS) has been accepted for IEEE TVCG 2025 (CCF A)!
 - **[Sept, 2025]**: Our paper has been accepted for Campbell Systematic Reviews! Congrats team!
@@ -42,7 +59,9 @@ My research interests focus on human-AI collaboration for Science (specifically 
 - **[2019]** National College Mathematics Modeling Competition Competition Award M.
 - **[2019]** The Second Prize of the National College Internet of Things Competition.
 - **[2018]** The First Prize of the 10th National College Mathematics Competition(Non-math Major).
-{: .news-timeline}
+
+</div>
+</details>
 
 {% include_relative _includes/publications.md %}
 

@@ -1,155 +1,103 @@
 /**
- * Starfield background + scroll-reveal + nav active state (homepage only).
+ * Homepage navigation behavior.
  */
 (function () {
-  /* Fluorescent particle field (canvas, optional) */
-  var canvas = document.getElementById("starfield");
-  if (canvas && !window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
-    var ctx = canvas.getContext("2d");
-    var stars = [];
-    var w = 0;
-    var h = 0;
+  /* Quiet, translucent leaf field behind the page. */
+  var leafCanvas = document.getElementById("leaf-field");
+  if (leafCanvas) {
+    var leafContext = leafCanvas.getContext("2d");
+    var reducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    var leafPalette = [
+      "rgba(64, 112, 87, 0.13)",
+      "rgba(49, 93, 128, 0.10)",
+      "rgba(151, 118, 62, 0.09)",
+    ];
+    var leaves = [];
+    var leafWidth = 0;
+    var leafHeight = 0;
+    var lastLeafFrame = 0;
 
-    function prefersDark() {
-      return window.matchMedia("(prefers-color-scheme: dark)").matches;
-    }
-
-    function makeStar() {
-      var t = Math.random();
-      var sizeClass = t < 0.5 ? "fine" : t < 0.88 ? "mid" : "glow";
-      var base =
-        sizeClass === "fine"
-          ? 0.4 + Math.random() * 0.55
-          : sizeClass === "mid"
-            ? 0.85 + Math.random() * 0.75
-            : 1.35 + Math.random() * 1.25;
-      var hue = Math.random();
-      var u = Math.random();
+    function makeLeaf(initial) {
+      var size = 6 + Math.random() * 8;
       return {
-        x: Math.random() * w,
-        y: Math.random() * h,
-        r: base,
-        vx: (Math.random() - 0.5) * (sizeClass === "fine" ? 0.14 : 0.09),
-        vy: (Math.random() - 0.5) * (sizeClass === "fine" ? 0.14 : 0.09),
-        tw: Math.random() * Math.PI * 2,
-        sp: 0.01 + Math.random() * 0.022,
-        hue: hue,
-        sizeClass: sizeClass,
-        alphaBase: 0.12 + Math.pow(u, 1.35) * 0.78,
-        twPhase: Math.random() * Math.PI * 2,
-        twSpeed: 0.75 + Math.random() * 0.65,
+        x: Math.random() * leafWidth,
+        y: initial ? Math.random() * leafHeight : -size * 2,
+        size: size,
+        speed: 0.12 + Math.random() * 0.16,
+        wind: -0.025 + Math.random() * 0.05,
+        drift: 8 + Math.random() * 16,
+        phase: Math.random() * Math.PI * 2,
+        rotation: Math.random() * Math.PI * 2,
+        spin: (-0.004 + Math.random() * 0.008),
+        color: leafPalette[Math.floor(Math.random() * leafPalette.length)],
       };
     }
 
-    function rgbFor(s, dark) {
-      var u = s.hue;
-      if (dark) {
-        return {
-          r: Math.floor(70 + u * 80),
-          g: Math.floor(190 + u * 55),
-          b: 255,
-        };
-      }
-      return {
-        r: Math.floor(6 + u * 25),
-        g: Math.floor(115 + u * 55),
-        b: Math.floor(155 + u * 45),
-      };
+    function resizeLeafField() {
+      var ratio = Math.min(window.devicePixelRatio || 1, 2);
+      leafWidth = window.innerWidth;
+      leafHeight = window.innerHeight;
+      leafCanvas.width = Math.round(leafWidth * ratio);
+      leafCanvas.height = Math.round(leafHeight * ratio);
+      leafContext.setTransform(ratio, 0, 0, ratio, 0, 0);
+
+      var leafCount = Math.max(8, Math.min(18, Math.round(leafWidth / 90)));
+      leaves = [];
+      for (var i = 0; i < leafCount; i++) leaves.push(makeLeaf(true));
     }
 
-    function drawFluorescent(s, dark) {
-      var c = rgbFor(s, dark);
-      var rgb = c.r + ", " + c.g + ", " + c.b;
-      var t = s.tw * s.twSpeed + s.twPhase;
-      var twinkle = 0.38 + 0.62 * (0.5 + 0.5 * Math.sin(t));
-      var shimmer = 0.92 + 0.08 * Math.sin(t * 1.7 + s.hue * 3);
-      var amp = s.alphaBase * twinkle * shimmer;
-      var pulse2 = 0.88 + 0.12 * Math.sin(t * 1.1 + s.hue * 4);
-      var glowMul = s.sizeClass === "glow" ? 6.5 : s.sizeClass === "mid" ? 4.6 : 3;
-      var glowR = s.r * glowMul * pulse2;
-      var x = s.x;
-      var y = s.y;
+    function paintLeaf(leaf) {
+      var drawX = leaf.x + Math.sin(leaf.phase) * leaf.drift;
+      var size = leaf.size;
 
-      var g = ctx.createRadialGradient(x, y, 0, x, y, glowR);
-      var baseGlow = dark ? 0.52 : 0.4;
-      var baseHalo = dark ? 0.16 : 0.11;
-      var a0 = baseGlow * amp;
-      var a1 = baseHalo * amp;
-      g.addColorStop(0, "rgba(" + rgb + "," + a0 + ")");
-      g.addColorStop(0.38, "rgba(" + rgb + "," + a1 + ")");
-      g.addColorStop(0.68, "rgba(" + rgb + "," + (a1 * 0.32) + ")");
-      g.addColorStop(1, "rgba(" + rgb + ",0)");
-
-      ctx.beginPath();
-      ctx.arc(x, y, glowR, 0, Math.PI * 2);
-      ctx.fillStyle = g;
-      ctx.fill();
-
-      var coreR = s.r * (s.sizeClass === "fine" ? 0.72 : 0.62);
-      var coreA = (dark ? 0.88 : 0.75) * amp * (0.55 + 0.45 * twinkle);
-      ctx.beginPath();
-      ctx.arc(x, y, coreR, 0, Math.PI * 2);
-      ctx.fillStyle = "rgba(" + rgb + "," + coreA + ")";
-      ctx.fill();
+      leafContext.save();
+      leafContext.translate(drawX, leaf.y);
+      leafContext.rotate(leaf.rotation);
+      leafContext.scale(0.62, 1);
+      leafContext.fillStyle = leaf.color;
+      leafContext.beginPath();
+      leafContext.moveTo(0, -size);
+      leafContext.bezierCurveTo(size * 0.9, -size * 0.45, size * 0.8, size * 0.5, 0, size);
+      leafContext.bezierCurveTo(-size * 0.8, size * 0.5, -size * 0.9, -size * 0.45, 0, -size);
+      leafContext.fill();
+      leafContext.strokeStyle = leaf.color;
+      leafContext.lineWidth = 0.65;
+      leafContext.beginPath();
+      leafContext.moveTo(0, -size * 0.72);
+      leafContext.lineTo(0, size * 0.76);
+      leafContext.stroke();
+      leafContext.restore();
     }
 
-    function resize() {
-      w = canvas.width = window.innerWidth;
-      h = canvas.height = window.innerHeight;
-      var cap = Math.min(300, Math.floor((w * h) / 3000));
-      if (stars.length !== cap) {
-        stars = [];
-        for (var i = 0; i < cap; i++) {
-          stars.push(makeStar());
+    function renderLeafField(time) {
+      var ratio = Math.min(window.devicePixelRatio || 1, 2);
+      leafContext.setTransform(1, 0, 0, 1, 0, 0);
+      leafContext.clearRect(0, 0, leafCanvas.width, leafCanvas.height);
+      leafContext.setTransform(ratio, 0, 0, ratio, 0, 0);
+
+      var step = lastLeafFrame ? Math.min((time - lastLeafFrame) / 16.67, 2) : 1;
+      lastLeafFrame = time;
+
+      leaves.forEach(function (leaf) {
+        if (!reducedMotion) {
+          leaf.y += leaf.speed * step;
+          leaf.x += leaf.wind * step;
+          leaf.phase += 0.008 * step;
+          leaf.rotation += leaf.spin * step;
+
+          if (leaf.y > leafHeight + leaf.size * 2 || leaf.x < -50 || leaf.x > leafWidth + 50) {
+            Object.assign(leaf, makeLeaf(false));
+          }
         }
-      }
+        paintLeaf(leaf);
+      });
+
+      if (!reducedMotion) window.requestAnimationFrame(renderLeafField);
     }
 
-    function step() {
-      ctx.clearRect(0, 0, w, h);
-      var dark = prefersDark();
-      for (var j = 0; j < stars.length; j++) {
-        var s = stars[j];
-        s.x += s.vx;
-        s.y += s.vy;
-        s.tw += s.sp;
-        if (s.x < -20) s.x += w + 40;
-        if (s.x > w + 20) s.x -= w + 40;
-        if (s.y < -20) s.y += h + 40;
-        if (s.y > h + 20) s.y -= h + 40;
-        drawFluorescent(s, dark);
-      }
-      requestAnimationFrame(step);
-    }
-
-    window.addEventListener("resize", function () {
-      resize();
-    });
-    resize();
-    step();
-  } else if (canvas) {
-    canvas.style.display = "none";
-  }
-
-  /* Scroll reveal */
-  var revealEls = document.querySelectorAll(
-    ".academic-home section h2, .academic-home section .publications, .academic-home ul.news-timeline"
-  );
-  if ("IntersectionObserver" in window && revealEls.length) {
-    revealEls.forEach(function (el) {
-      el.classList.add("home-reveal");
-    });
-    var io = new IntersectionObserver(
-      function (entries) {
-        entries.forEach(function (e) {
-          if (e.isIntersecting) e.target.classList.add("home-reveal--visible");
-        });
-      },
-      { root: null, rootMargin: "0px 0px -8% 0px", threshold: 0.08 }
-    );
-    revealEls.forEach(function (el) {
-      io.observe(el);
-    });
+    resizeLeafField();
+    window.addEventListener("resize", resizeLeafField, { passive: true });
+    window.requestAnimationFrame(renderLeafField);
   }
 
   /* Nav scroll-spy */
@@ -219,4 +167,29 @@
     { passive: true }
   );
   paint();
+
+  /* Publications filtering */
+  var filter = document.querySelector(".publication-filter");
+  if (filter) {
+    var filterButtons = filter.querySelectorAll("[data-publication-filter]");
+    var publicationItems = document.querySelectorAll(".publication-item[data-paper-role]");
+
+    function applyPublicationFilter(role) {
+      publicationItems.forEach(function (item) {
+        item.hidden = role !== "all" && item.getAttribute("data-paper-role") !== role;
+      });
+
+      filterButtons.forEach(function (button) {
+        var active = button.getAttribute("data-publication-filter") === role;
+        button.classList.toggle("is-active", active);
+        button.setAttribute("aria-pressed", active ? "true" : "false");
+      });
+    }
+
+    filterButtons.forEach(function (button) {
+      button.addEventListener("click", function () {
+        applyPublicationFilter(button.getAttribute("data-publication-filter"));
+      });
+    });
+  }
 })();

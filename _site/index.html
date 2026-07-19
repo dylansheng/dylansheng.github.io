@@ -22,27 +22,23 @@
     <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin=anonymous>
 
     
-    <link rel="stylesheet" href="./assets/css/font.css">
+    <link rel="stylesheet" href="./assets/css/font.css?v=20260719e">
     
     
-    <link rel="stylesheet" href="./assets/css/style.css">
+    <link rel="stylesheet" href="./assets/css/style.css?v=20260719h">
     <link rel="stylesheet" href="./assets/css/publications.css">
     
 
   </head>
   <body class="academic-home">
-    <canvas id="starfield" class="starfield-canvas" width="800" height="600" aria-hidden="true"></canvas>
     <a href="#main-content" class="skip-link">Skip to content</a>
+    <canvas id="leaf-field" class="leaf-field-canvas" aria-hidden="true"></canvas>
     <nav class="site-nav" aria-label="Page sections">
       <div class="site-nav-inner">
         <a href="#about-me">About</a>
-        <span class="site-nav-sep" aria-hidden="true">·</span>
         <a href="#research-interests">Research</a>
-        <span class="site-nav-sep" aria-hidden="true">·</span>
         <a href="#news">News</a>
-        <span class="site-nav-sep" aria-hidden="true">·</span>
         <a href="#publications">Publications</a>
-        <span class="site-nav-sep" aria-hidden="true">·</span>
         <details class="site-nav-more">
           <summary class="site-nav-more-summary"><span class="site-nav-more-label">More</span></summary>
           <div class="site-nav-more-panel">
@@ -101,61 +97,46 @@
         
         </div>
 
-        <div class="sidebar-wordcloud">
-          <div class="sidebar-wordcloud-card-glow">
-          <section class="sidebar-wordcloud-card" aria-labelledby="sidebar-wordcloud-heading">
-            <div class="sidebar-wordcloud-card__head">
-              <p class="wordcloud-line wordcloud-line--hero" id="sidebar-wordcloud-heading" role="heading" aria-level="2">
-                <span class="wordcloud-title">Human AI Collaboration for Biomedicine / Biochemistry</span>
-              </p>
-            </div>
-            <div class="sidebar-wordcloud-card__body">
-              <p class="wordcloud-line wordcloud-line--tags">
-                <span class="wordcloud-tag">AI4Science</span>
-                <span class="wordcloud-sep" aria-hidden="true">·</span>
-                <span class="wordcloud-tag">AI4Healthcare</span>
-                <span class="wordcloud-sep" aria-hidden="true">·</span>
-                <span class="wordcloud-tag">Data Visualization</span>
-              </p>
-              <p class="wordcloud-line wordcloud-line--tags">
-                <span class="wordcloud-tag">Gene Data Analysis</span>
-                <span class="wordcloud-sep" aria-hidden="true">·</span>
-                <span class="wordcloud-tag">Drug Discovery</span>
-                <span class="wordcloud-sep" aria-hidden="true">·</span>
-                <span class="wordcloud-tag">Clinical Diagnosis</span>
-                <span class="wordcloud-sep" aria-hidden="true">·</span>
-                <span class="wordcloud-tag">Clinical World Model</span>
-              </p>
-            </div>
-          </section>
-          </div>
-        </div>
-
       </header>
       <section id="main-content" tabindex="-1">
 
       <h2 id="about-me">About Me</h2>
-<p>Nice to meet you! I am Rui SHENG (盛睿), currently a Ph.D. candidate in HKUST <a href="http://vis.cse.ust.hk/">VisLab</a>, at the Department of Computer Science and Engineering of the Hong Kong University of Science and Technology (HKUST), supervised by <a href="http://huamin.org/">Prof. Huamin Qu</a>. Before joining HKUST, I obtained my B.S. degree from Wuhan University in 2021 (rank 2/334). I am also very honored to be closely supervised by <a href="https://perer.org/">Prof. Adam Perer</a> at CMU and <a href="https://nlp.csai.tsinghua.edu.cn/~ly/">Prof. Yang Liu</a> at the THUNLP Group, Tsinghua University. In addition, I maintain close collaborations with <a href="https://cs.scu.edu.cn/info/1279/19761.htm">Prof. Min Zhu</a> at Sichuan University, <a href="https://shichuhan.github.io/">Prof. Chuhan Shi</a> at Southeast University, and <a href="https://wangyifang.top/">Prof. Yifang Wang</a> at Florida State University.</p>
+<p>I am Rui (Dylan) SHENG (盛睿), a final-year Ph.D. candidate in Computer Science and Engineering at the Hong Kong University of Science and Technology. I am a member of the <a href="http://vis.cse.ust.hk/">HKUST VisLab</a>, advised by <a href="http://huamin.org/">Prof. Huamin Qu</a>.</p>
 
-<p>My research interests focus on <span class="text-rainbow-seven">human-AI collaboration for Biomedicine (AI4Biomedicine)</span>. First, I aim to enhance biomedical research by exploring methodologies that assist researchers in conducting more effective and efficient studies. Second, I investigate how human-AI collaboration can improve decision-making and outcomes in medical practice scenarios. Lastly, I am dedicated to developing intelligent tools that facilitate scientific discovery by interdisciplinary researchers.</p>
-
-<p>I enjoy engaging in communication with others, not only limited to scientific research. Feel free to reach out to me if you have any questions. <span class="callout-seeking"><span class="callout-seeking__text">I am currently seeking a postdoctoral position starting in the fall of 2026!</span></span></p>
+<p>My research develops human-centered AI and visual analytics for biomedical discovery and healthcare. Before joining HKUST, I received my B.S. from Wuhan University in 2021 (rank 2/334). I am also very honored to be closely supervised by <a href="https://nlp.csai.tsinghua.edu.cn/~ly/">Prof. Yang Liu</a> at the THUNLP Group, Tsinghua University and <a href="https://perer.org/">Prof. Adam Perer</a> at Carnegie Mellon University. In addition, I maintain close collaborations with <a href="https://cs.scu.edu.cn/info/1279/19761.htm">Prof. Min Zhu</a> at Sichuan University, <a href="https://shichuhan.github.io/">Prof. Chuhan Shi</a> at Southeast University, and <a href="https://wangyifang.top/">Prof. Yifang Wang</a> at Florida State University.</p>
 
 <h2 id="research-interests">Research Interests</h2>
 
-<ul>
-  <li><strong>Human AI Collaboration:</strong> I have a keen interest in studying the synergistic collaboration between humans and AI, with a particular focus on exploring how data visualization can serve as a bridge between the two.</li>
-  <li><strong>AI4Science:</strong> I specifically focus on AI4Science, such as biomedicine and chemistry.</li>
-</ul>
+<div class="research-areas">
+  <div class="research-area">
+    <h3>Human–AI Collaboration</h3>
+    <p>Interactive and visual systems that help people reason with AI.</p>
+  </div>
+  <div class="research-area">
+    <h3>AI for Science</h3>
+    <p>Human-centered methods for biomedicine and biochemistry.</p>
+  </div>
+  <div class="research-area">
+    <h3>AI for Healthcare</h3>
+    <p>Clinical decision support and simulation for clinical practice.</p>
+  </div>
+</div>
 
 <h2 id="news">News</h2>
 
 <ul class="news-timeline">
+  <li><strong>[July, 2026]</strong>: Our two papers (CellPrism and VeriLLMed) have been accepted for IEEE VIS 2026! Congrats to the two amazing teams! I am the corresponding author of CellPrism.</li>
+  <li><strong>[July, 2026]</strong>: Our paper (Navigating the Mirage: A Dual-Path Agentic Framework for Robust Misleading Chart Question Answering) has been accepted for ACM MM 2026! Congrats team!</li>
   <li><strong>[Feb, 2026]</strong>: I have started my visiting journey at the THUNLP Group, Tsinghua University, collaborating with <a href="https://nlp.csai.tsinghua.edu.cn/~ly/">Prof. Yang Liu</a>, who is the Dean of the Institute for AI Industry Research (AIR)!</li>
   <li><strong>[Jan, 2026]</strong>: Our paper (StoryLensEdu) has been accepted for IEEE PacificVis! This paper is a collaborative effort with TrumpTech (Company), and I am honored to serve as the corresponding author.</li>
   <li><strong>[Jan, 2026]</strong>: I was honored to be invited by MSRA to give a talk on human–AI collaboration for biomedical scientific discovery.</li>
   <li><strong>[Jan, 2026]</strong>: My first-author paper (DiLLS) has been accepted for CHI (CCF A)!</li>
   <li><strong>[Jan, 2026]</strong>: My first-author paper (Design Patterns of Human-AI Interfaces in Healthcare) has been accepted for IJHCS (CCF A)!</li>
+</ul>
+
+<details class="news-archive">
+<summary>Earlier news (2021–2025)</summary>
+<ul>
   <li><strong>[Nov, 2025]</strong>: My first-author paper (CellScout) has been accepted for IEEE TVCG 2025 (CCF A)!</li>
   <li><strong>[Oct, 2025]</strong>: My first-author paper (EMINDS) has been accepted for IEEE TVCG 2025 (CCF A)!</li>
   <li><strong>[Sept, 2025]</strong>: Our paper has been accepted for Campbell Systematic Reviews! Congrats team!</li>
@@ -178,895 +159,527 @@
   <li><strong>[2019]</strong> The Second Prize of the National College Internet of Things Competition.</li>
   <li><strong>[2018]</strong> The First Prize of the 10th National College Mathematics Competition(Non-math Major).</li>
 </ul>
+</details>
 
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+<h2 id="publications">Publications</h2>
+<div class="publication-filter" role="group" aria-label="Filter publications">
+  <button type="button" class="publication-filter-button is-active" data-publication-filter="all" aria-pressed="true">All (18)</button>
+  <button type="button" class="publication-filter-button" data-publication-filter="first-author" aria-pressed="false">First-author (6)</button>
+  <button type="button" class="publication-filter-button" data-publication-filter="corresponding" aria-pressed="false">Corresponding (2)</button>
+  <button type="button" class="publication-filter-button" data-publication-filter="collaboration" aria-pressed="false">Collaborative (10)</button>
+</div>
 
 <div class="publications">
-<ol class="bibliography">
-
-
-
-<li>
+<ol class="bibliography" id="publication-list">
+<li class="publication-item" data-paper-role="corresponding">
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-     
+    <img src="./assets/img/CellPrism.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
+    <abbr class="badge">VIS</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="">CellPrism: A Visual Analytics System for Exploring AI-Driven Virtual Cells in Drug Discovery</a></div>
+    <div class="author">Chuhan Shi, Zijian Guo, Zelin Zang, Chengbo Zheng, Ding Ding, <strong>Rui Sheng*</strong></div>
+    <div class="periodical"><em>IEEE VIS, 2026, <strong><span class='corresponding-label'>Corresponding Author</span></strong>.</em></div>
+    <div class="links"></div>
+  </div>
+</div>
+</li>
+
+<li class="publication-item" data-paper-role="collaboration">
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/VeriLLMed.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
+    <abbr class="badge">VIS</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2604.23356">VeriLLMed: Interactive Visual Debugging of Medical Large Language Models with Knowledge Graphs</a></div>
+    <div class="author">Yurui Xiang, Xingyi Mao, <strong>Rui Sheng</strong>, Zixin Chen, Zelin Zang, Yuyang Wu, Haipeng Zeng, Huamin Qu, Yushi Sun, Yanna Lin</div>
+    <div class="periodical"><em>IEEE VIS, 2026.</em></div>
+    <div class="links"><a href="https://arxiv.org/pdf/2604.23356" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a></div>
+  </div>
+</div>
+</li>
+
+<li class="publication-item" data-paper-role="collaboration">
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/misleading.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
+    <abbr class="badge">MM</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2603.28583">Navigating the Mirage: A Dual-Path Agentic Framework for Robust Misleading Chart Question Answering</a></div>
+    <div class="author">Yanjie Zhang, Yafei Li, <strong>Rui Sheng</strong>, Zixin Chen, Yanna Lin, Huamin Qu, Lei Chen, Yushi Sun</div>
+    <div class="periodical"><em>ACM Multimedia (MM), 2026.</em></div>
+    <div class="links"><a href="https://arxiv.org/abs/2603.28583" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a></div>
+  </div>
+</div>
+</li>
+
+<li class="publication-item" data-paper-role="corresponding">
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/img/StoryLensEdu.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
-    
-     
     <abbr class="badge">PacificVis</abbr>
-    
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://arxiv.org/pdf/2602.17067">StoryLensEdu: Personalized Learning Report Generation through Narrative-Driven Multi-Agent Systems</a></div>
-      <div class="author">Leixian Shen+, Yan Luo+, <strong>Rui Sheng*</strong>, Yujia He, Haotian Li, Leni Yang, Huamin Qu</div>
-      <div class="periodical"><em>IEEE Pacific Visualization Conference (PacificVis), 2026, Corresponding Author</em>
-      </div>
-    <div class="links">
-       
-      <a href="https://arxiv.org/pdf/2602.17067" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      
-      
-      
-      
-      
-      
-    </div>
+    <div class="title"><a href="https://arxiv.org/pdf/2602.17067">StoryLensEdu: Personalized Learning Report Generation through Narrative-Driven Multi-Agent Systems</a></div>
+    <div class="author">Leixian Shen+, Yan Luo+, <strong>Rui Sheng*</strong>, Yujia He, Haotian Li, Leni Yang, Huamin Qu</div>
+    <div class="periodical"><em>IEEE Pacific Visualization Conference (PacificVis), 2026, <strong><span class='corresponding-label'>Corresponding Author</span></strong>.</em></div>
+    <div class="links"><a href="https://arxiv.org/pdf/2602.17067" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a></div>
   </div>
 </div>
 </li>
 
-<br />
-
-
-
-<li>
+<li class="publication-item" data-paper-role="first-author">
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-     
     <img src="./assets/img/DiLLS.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
-    
-     
     <abbr class="badge">CHI</abbr>
-    
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://arxiv.org/pdf/2602.05446">DiLLS: Interactive Diagnosis of LLM-based Multi-agent Systems via Layered Summary of Agent Behaviors</a></div>
-      <div class="author"><strong>Rui Sheng+</strong>, Yukun Yang+, Chuhan Shi, Yanna Lin, Zixin Chen, Huamin Qu, Furui Cheng</div>
-      <div class="periodical"><em>The ACM Conference on Human Factors in Computing Systems (CHI), 2026</em>
-      </div>
-    <div class="links">
-       
-      <a href="https://arxiv.org/pdf/2602.05446" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      
-      
-      
-      
-      
-      
-    </div>
+    <div class="title"><a href="https://arxiv.org/pdf/2602.05446">DiLLS: Interactive Diagnosis of LLM-based Multi-agent Systems via Layered Summary of Agent Behaviors</a></div>
+    <div class="author"><strong>Rui Sheng+</strong>, Yukun Yang+, Chuhan Shi, Yanna Lin, Zixin Chen, Huamin Qu, Furui Cheng</div>
+    <div class="periodical"><em>The ACM Conference on Human Factors in Computing Systems (CHI), 2026.</em></div>
+    <div class="links"><a href="https://arxiv.org/pdf/2602.05446" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a></div>
   </div>
 </div>
 </li>
 
-<br />
-
-
-
-<li>
+<li class="publication-item" data-paper-role="first-author">
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-     
     <img src="./assets/img/DesignPatterns.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
-    
-     
     <abbr class="badge">IJHCS</abbr>
-    
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://arxiv.org/pdf/2507.12721">Design Patterns of Human-AI Interfaces in Healthcare</a></div>
-      <div class="author"><strong>Rui Sheng</strong>, Chuhan Shi, Sobhan Lotfi, Shiyi Liu, Adam Perer, Huamin Qu, Furui Cheng</div>
-      <div class="periodical"><em>International Journal of Human-Computer Studies (IJHCS), 2026</em>
-      </div>
-    <div class="links">
-       
-      <a href="https://arxiv.org/pdf/2507.12721" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      
-      
-      
-      
-      
-      
-    </div>
+    <div class="title"><a href="https://arxiv.org/pdf/2507.12721">Design Patterns of Human-AI Interfaces in Healthcare</a></div>
+    <div class="author"><strong>Rui Sheng</strong>, Chuhan Shi, Sobhan Lotfi, Shiyi Liu, Adam Perer, Huamin Qu, Furui Cheng</div>
+    <div class="periodical"><em>International Journal of Human-Computer Studies (IJHCS), 2026.</em></div>
+    <div class="links"><a href="https://arxiv.org/pdf/2507.12721" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a></div>
   </div>
 </div>
 </li>
 
-<br />
-
-
-
-<li>
+<li class="publication-item" data-paper-role="first-author">
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-     
     <img src="./assets/img/cellscout.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
-    
-     
     <abbr class="badge">TVCG</abbr>
-    
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="assets/files/CellScout.pdf">CellScout: Visual Analytics for Mining Biomarkers in Cell State Discovery</a></div>
-      <div class="author"><strong>Rui Sheng</strong>, Zelin Zang, Jiachen Wang, Yan Luo, Zixin Chen, Yan Zhou, Shaolun Ruan, Huamin Qu</div>
-      <div class="periodical"><em>IEEE Transactions on Visualization and Computer Graphics (TVCG), 2025</em>
-      </div>
-    <div class="links">
-       
-      <a href="assets/files/CellScout.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      
-      
-      
-      
-      
-      
-    </div>
+    <div class="title"><a href="assets/files/CellScout.pdf">CellScout: Visual Analytics for Mining Biomarkers in Cell State Discovery</a></div>
+    <div class="author"><strong>Rui Sheng</strong>, Zelin Zang, Jiachen Wang, Yan Luo, Zixin Chen, Yan Zhou, Shaolun Ruan, Huamin Qu</div>
+    <div class="periodical"><em>IEEE Transactions on Visualization and Computer Graphics (TVCG), 2025.</em></div>
+    <div class="links"><a href="assets/files/CellScout.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a></div>
   </div>
 </div>
 </li>
 
-<br />
-
-
-
-<li>
+<li class="publication-item" data-paper-role="first-author">
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-     
     <img src="./assets/img/EMINDS.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
-    
-     
     <abbr class="badge">TVCG</abbr>
-    
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://ieeexplore.ieee.org/document/11241218/">EMINDS: Understanding User Behavior Progression for Mental Health Exploration on Social Media</a></div>
-      <div class="author"><strong>Rui Sheng</strong>, Yifang Wang, Xingbo Wang, Shun Dai, Qingyu Guo, Tai-Quan Peng, Huamin Qu, Dongyu Liu</div>
-      <div class="periodical"><em>IEEE Transactions on Visualization and Computer Graphics (TVCG), 2025</em>
-      </div>
-    <div class="links">
-       
-      <a href="https://ieeexplore.ieee.org/document/11241218/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      
-      
-      
-      
-      
-      
-    </div>
+    <div class="title"><a href="https://ieeexplore.ieee.org/document/11241218/">EMINDS: Understanding User Behavior Progression for Mental Health Exploration on Social Media</a></div>
+    <div class="author"><strong>Rui Sheng</strong>, Yifang Wang, Xingbo Wang, Shun Dai, Qingyu Guo, Tai-Quan Peng, Huamin Qu, Dongyu Liu</div>
+    <div class="periodical"><em>IEEE Transactions on Visualization and Computer Graphics (TVCG), 2025.</em></div>
+    <div class="links"><a href="https://ieeexplore.ieee.org/document/11241218/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a></div>
   </div>
 </div>
 </li>
 
-<br />
-
-
-
-<li>
+<li class="publication-item" data-paper-role="collaboration">
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-     
     <img src="./assets/img/UnmaskingDeceptiveVisuals.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
-    
-     
     <abbr class="badge">EMNLP</abbr>
-    
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://arxiv.org/pdf/2503.18172">Unmasking Deceptive Visuals: Benchmarking Multimodal Large Language Models on Misleading Chart Question Answering</a></div>
-      <div class="author">Zixin Chen, Sicheng Song, Kashun Shum, Yanna Lin, <strong>Rui Sheng</strong>, Huamin Qu</div>
-      <div class="periodical"><em>ACL Empirical Methods in Natural Language Processing (EMNLP, main), 2025, (🏅<span style="color:red">Oral</span>).</em>
-      </div>
-    <div class="links">
-       
-      <a href="https://arxiv.org/pdf/2503.18172" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      
-      
-      
-      
-      
-      
-    </div>
+    <div class="title"><a href="https://arxiv.org/pdf/2503.18172">Unmasking Deceptive Visuals: Benchmarking Multimodal Large Language Models on Misleading Chart Question Answering</a></div>
+    <div class="author">Zixin Chen, Sicheng Song, Kashun Shum, Yanna Lin, <strong>Rui Sheng</strong>, Huamin Qu</div>
+    <div class="periodical"><em>ACL Empirical Methods in Natural Language Processing (EMNLP, main), 2025, (🏅<span style="color:red">Oral</span>).</em></div>
+    <div class="links"><a href="https://arxiv.org/pdf/2503.18172" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a></div>
   </div>
 </div>
 </li>
 
-<br />
-
-
-
-<li>
+<li class="publication-item" data-paper-role="first-author">
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-     
     <img src="./assets/img/TrialCompass.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
-    
-     
     <abbr class="badge">VIS</abbr>
-    
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://arxiv.org/pdf/2507.12298">TrialCompass: Visual Analytics for Enhancing the Eligibility Criteria Design of Clinical Trials</a></div>
-      <div class="author"><strong>Rui Sheng</strong>, Xingbo Wang, Jiachen Wang, Xiaofu Jin, Zhonghua Sheng, Zhenxing Xu, Suraj Rajendran, Huamin Qu, Fei Wang</div>
-      <div class="periodical"><em>IEEE VIS, 2025</em>
-      </div>
-    <div class="links">
-       
-      <a href="https://arxiv.org/pdf/2507.12298" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      
-      
-      
-      
-      
-      
-    </div>
+    <div class="title"><a href="https://arxiv.org/pdf/2507.12298">TrialCompass: Visual Analytics for Enhancing the Eligibility Criteria Design of Clinical Trials</a></div>
+    <div class="author"><strong>Rui Sheng</strong>, Xingbo Wang, Jiachen Wang, Xiaofu Jin, Zhonghua Sheng, Zhenxing Xu, Suraj Rajendran, Huamin Qu, Fei Wang</div>
+    <div class="periodical"><em>IEEE VIS, 2025.</em></div>
+    <div class="links"><a href="https://arxiv.org/pdf/2507.12298" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a></div>
   </div>
 </div>
 </li>
 
-<br />
-
-
-
-<li>
+<li class="publication-item" data-paper-role="collaboration">
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-     
     <img src="./assets/img/LLMdesign.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
-    
-     
     <abbr class="badge">VIS</abbr>
-    
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://arxiv.org/pdf/2507.10024">Qualitative Study for LLM-assisted Design Study Process: Strategies, Challenges, and Roles</a></div>
-      <div class="author">Shaolun Ruan, <strong>Rui Sheng</strong>, Xiaolin Wen, Jiachen Wang, Tianyi Zhang, Yong Wang, Tim Dwyer, Jiannan Li</div>
-      <div class="periodical"><em>IEEE VIS, 2025, (🏅<span style="color:red">IEEE VIS'25 Best Paper Honorable Mention</span>).</em>
-      </div>
-    <div class="links">
-       
-      <a href="https://arxiv.org/pdf/2507.10024" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      
-      
-      
-      
-      
-      
-    </div>
+    <div class="title"><a href="https://arxiv.org/pdf/2507.10024">Qualitative Study for LLM-assisted Design Study Process: Strategies, Challenges, and Roles</a></div>
+    <div class="author">Shaolun Ruan, <strong>Rui Sheng</strong>, Xiaolin Wen, Jiachen Wang, Tianyi Zhang, Yong Wang, Tim Dwyer, Jiannan Li</div>
+    <div class="periodical"><em>IEEE VIS, 2025, (🏅<span style="color:red">IEEE VIS'25 Best Paper Honorable Mention</span>).</em></div>
+    <div class="links"><a href="https://arxiv.org/pdf/2507.10024" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a></div>
   </div>
 </div>
 </li>
 
-<br />
-
-
-
-<li>
+<li class="publication-item" data-paper-role="collaboration">
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-     
     <img src="./assets/img/TrajLens.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
-    
-     
     <abbr class="badge">VIS</abbr>
-    
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://arxiv.org/pdf/2507.15620">TrajLens: Visual Analytics for Constructing Cell Development Trajectories in Cross-Sample Analysis</a></div>
-      <div class="author">Qipeng Wang, Shaolun Ruan, <strong>Rui Sheng</strong>, Yong Wang, Min Zhu, Huamin Qu</div>
-      <div class="periodical"><em>IEEE VIS, 2025</em>
-      </div>
-    <div class="links">
-       
-      <a href="https://arxiv.org/pdf/2507.15620" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      
-      
-      
-      
-      
-      
-    </div>
+    <div class="title"><a href="https://arxiv.org/pdf/2507.15620">TrajLens: Visual Analytics for Constructing Cell Development Trajectories in Cross-Sample Analysis</a></div>
+    <div class="author">Qipeng Wang, Shaolun Ruan, <strong>Rui Sheng</strong>, Yong Wang, Min Zhu, Huamin Qu</div>
+    <div class="periodical"><em>IEEE VIS, 2025.</em></div>
+    <div class="links"><a href="https://arxiv.org/pdf/2507.15620" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a></div>
   </div>
 </div>
 </li>
 
-<br />
-
-
-
-<li>
+<li class="publication-item" data-paper-role="collaboration">
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-     
     <img src="./assets/img/SynthLens.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
-    
-     
     <abbr class="badge">TVCG</abbr>
-    
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://arxiv.org/pdf/2412.00729">SynthLens: Visual Analytics for Facilitating Multi-step Synthetic Route Design</a></div>
-      <div class="author">Qipeng Wang, <strong>Rui Sheng</strong>, Shaolun Ruan, Xiaofu Jin, Chuhan Shi, Min Zhu</div>
-      <div class="periodical"><em>IEEE Transactions on Visualization and Computer Graphics (TVCG), 2025</em>
-      </div>
-    <div class="links">
-       
-      <a href="https://arxiv.org/pdf/2412.00729" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      
-      
-      
-      
-      
-      
-    </div>
+    <div class="title"><a href="https://arxiv.org/pdf/2412.00729">SynthLens: Visual Analytics for Facilitating Multi-step Synthetic Route Design</a></div>
+    <div class="author">Qipeng Wang, <strong>Rui Sheng</strong>, Shaolun Ruan, Xiaofu Jin, Chuhan Shi, Min Zhu</div>
+    <div class="periodical"><em>IEEE Transactions on Visualization and Computer Graphics (TVCG), 2025.</em></div>
+    <div class="links"><a href="https://arxiv.org/pdf/2412.00729" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a></div>
   </div>
 </div>
 </li>
 
-<br />
-
-
-
-<li>
+<li class="publication-item" data-paper-role="collaboration">
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-     
     <img src="./assets/img/underreview1.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
-    
-     
     <abbr class="badge">CSR</abbr>
-    
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://arxiv.org/pdf/2404.13765">SciDaSynth: Interactive Structured Knowledge Extraction and Synthesis from Scientific Literature with Large Language Model</a></div>
-      <div class="author">Xingbo Wang, Samantha L. Huey, <strong>Rui Sheng</strong>, Saurabh Mehta, Fei Wang</div>
-      <div class="periodical"><em>Campbell Systematic Reviews, 2025.</em>
-      </div>
-    <div class="links">
-       
-      <a href="https://arxiv.org/pdf/2404.13765" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      
-      
-      
-      
-      
-      
-    </div>
+    <div class="title"><a href="https://arxiv.org/pdf/2404.13765">SciDaSynth: Interactive Structured Knowledge Extraction and Synthesis from Scientific Literature with Large Language Model</a></div>
+    <div class="author">Xingbo Wang, Samantha L. Huey, <strong>Rui Sheng</strong>, Saurabh Mehta, Fei Wang</div>
+    <div class="periodical"><em>Campbell Systematic Reviews, 2025.</em></div>
+    <div class="links"><a href="https://arxiv.org/pdf/2404.13765" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a></div>
   </div>
 </div>
 </li>
 
-<br />
-
-
-
-<li>
+<li class="publication-item" data-paper-role="collaboration">
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-     
     <img src="./assets/img/multimodality.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
-    
-     
     <abbr class="badge">CSR</abbr>
-    
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S1574013725000243">Empowering Multimodal Analysis with Visualization: A Survey</a></div>
-      <div class="author">Jiachen Wang, Zikun Deng, Dazhen Deng, Xingbo Wang, <strong>Rui Sheng</strong>, Yi Cai, Huamin Qu.</div>
-      <div class="periodical"><em>Computer Science Review, impact factor-12.7, 2025.</em>
-      </div>
-    <div class="links">
-       
-      <a href="https://www.sciencedirect.com/science/article/abs/pii/S1574013725000243" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      
-      
-      
-      
-      
-      
-    </div>
+    <div class="title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S1574013725000243">Empowering Multimodal Analysis with Visualization: A Survey</a></div>
+    <div class="author">Jiachen Wang, Zikun Deng, Dazhen Deng, Xingbo Wang, <strong>Rui Sheng</strong>, Yi Cai, Huamin Qu.</div>
+    <div class="periodical"><em>Computer Science Review, impact factor-12.7, 2025.</em></div>
+    <div class="links"><a href="https://www.sciencedirect.com/science/article/abs/pii/S1574013725000243" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a></div>
   </div>
 </div>
 </li>
 
-<br />
-
-
-
-<li>
+<li class="publication-item" data-paper-role="first-author">
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-     
     <img src="./assets/img/uistdemo23.jpg" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
-    
-     
     <abbr class="badge">UIST</abbr>
-    
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://drive.google.com/file/d/14ZvchOkE34fnj5pX2yw1RF6M1nRGhDJE/view?usp=sharing">Knowledge Compass: A Question Answering System Guiding Students with Follow-Up Question Recommendations</a></div>
-      <div class="author"><strong>Rui Sheng</strong>, Leni Yang, Haotian Li, Yan Luo, Ziyang Xu, Zhilan Zhou, David Gotz, Huamin Qu</div>
-      <div class="periodical"><em>ACM Symposium on User Interface Software and Technology (UIST), 2023.</em>
-      </div>
-    <div class="links">
-       
-      <a href="https://drive.google.com/file/d/14ZvchOkE34fnj5pX2yw1RF6M1nRGhDJE/view?usp=sharing" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      
-      
-      
-      
-      
-      
-    </div>
+    <div class="title"><a href="https://drive.google.com/file/d/14ZvchOkE34fnj5pX2yw1RF6M1nRGhDJE/view?usp=sharing">Knowledge Compass: A Question Answering System Guiding Students with Follow-Up Question Recommendations</a></div>
+    <div class="author"><strong>Rui Sheng</strong>, Leni Yang, Haotian Li, Yan Luo, Ziyang Xu, Zhilan Zhou, David Gotz, Huamin Qu</div>
+    <div class="periodical"><em>ACM Symposium on User Interface Software and Technology (UIST), 2023.</em></div>
+    <div class="links"><a href="https://drive.google.com/file/d/14ZvchOkE34fnj5pX2yw1RF6M1nRGhDJE/view?usp=sharing" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a></div>
   </div>
 </div>
 </li>
 
-<br />
-
-
-
-<li>
+<li class="publication-item" data-paper-role="collaboration">
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-     
     <img src="./assets/img/visap23.jpg" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
-    
-     
     <abbr class="badge">VISAP</abbr>
-    
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://wangyifang.top/static/media/vis23k-sub1032-i6.ea03e3b482a49b945996.pdf">Posts with no Response: The Island of Loneliness</a></div>
-      <div class="author">Junxiu Tang, <strong>Rui Sheng</strong>, Yifang Wang, Xinhuan Shu, Xiaojiao Chen, Tan Tang, Yingcai Wu</div>
-      <div class="periodical"><em>IEEE VIS Arts Program <strong>(accepted in two tracks - Pictorial and Artwork)</strong>, 2023.</em>
-      </div>
-    <div class="links">
-       
-      <a href="https://wangyifang.top/static/media/vis23k-sub1032-i6.ea03e3b482a49b945996.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      
-      
-      
-      
-      
-      
-    </div>
+    <div class="title"><a href="https://wangyifang.top/static/media/vis23k-sub1032-i6.ea03e3b482a49b945996.pdf">Posts with no Response: The Island of Loneliness</a></div>
+    <div class="author">Junxiu Tang, <strong>Rui Sheng</strong>, Yifang Wang, Xinhuan Shu, Xiaojiao Chen, Tan Tang, Yingcai Wu</div>
+    <div class="periodical"><em>IEEE VIS Arts Program <strong>(accepted in two tracks - Pictorial and Artwork)</strong>, 2023.</em></div>
+    <div class="links"><a href="https://wangyifang.top/static/media/vis23k-sub1032-i6.ea03e3b482a49b945996.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a></div>
   </div>
 </div>
 </li>
 
-<br />
-
-
-
-<li>
+<li class="publication-item" data-paper-role="collaboration">
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-     
     <img src="./assets/img/mmm21.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
-    
-     
     <abbr class="badge">MMM</abbr>
-    
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://link.springer.com/chapter/10.1007/978-3-030-67832-6_42">Unsupervised Temporal Attention Summarization Model for User Created Videos</a></div>
-      <div class="author">Min Hu, Ruimin Hu, Xiaocheng Wang, <strong>Rui Sheng</strong></div>
-      <div class="periodical"><em>International Conference on Multimedia Modeling (MMM), 2021.</em>
-      </div>
-    <div class="links">
-       
-      <a href="https://link.springer.com/chapter/10.1007/978-3-030-67832-6_42" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      
-      
-      
-      
-      
-      
-    </div>
+    <div class="title"><a href="https://link.springer.com/chapter/10.1007/978-3-030-67832-6_42">Unsupervised Temporal Attention Summarization Model for User Created Videos</a></div>
+    <div class="author">Min Hu, Ruimin Hu, Xiaocheng Wang, <strong>Rui Sheng</strong></div>
+    <div class="periodical"><em>International Conference on Multimedia Modeling (MMM), 2021.</em></div>
+    <div class="links"><a href="https://link.springer.com/chapter/10.1007/978-3-030-67832-6_42" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a></div>
   </div>
 </div>
 </li>
-
-<br />
-
-
 
 </ol>
 </div>
 
-<h2 id="upcoming-publications" style="margin: 2px 0px -15px;">Preprint Papers</h2>
-
+<h2 id="upcoming-publications">Preprint Papers</h2>
 <div class="publications">
 <ol class="bibliography">
-
-
-
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-     
     <img src="./assets/img/MedicalAgentSurvey.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
     
-     
-    <abbr class="badge">Under review</abbr>
-    
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.176089343.36199495/v1">A Survey of LLM-based Multi-agent Systems in Medicine</a></div>
-      <div class="author">Yanna Lin, Shaojie Xu, Wenshuo Zhang, Yushi Sun, Zixin Chen, Yanjie Zhang, <strong>Rui Sheng*</strong></div>
-      <div class="periodical"><em>Under review. (Corresponding Author)</em>
-      </div>
-    <div class="links">
-       
-      <a href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.176089343.36199495/v1" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      
-      
-      
-      
-      
-      
-    </div>
+    <div class="title"><a href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.176089343.36199495/v1">A Survey of LLM-based Multi-agent Systems in Medicine</a></div>
+    <div class="author">Yanna Lin, Shaojie Xu, Wenshuo Zhang, Yushi Sun, Zixin Chen, Yanjie Zhang, <strong>Rui Sheng*</strong></div>
+    <div class="periodical"><em>Under review. (<span class='corresponding-label'>Corresponding Author</span>)</em></div>
+    <div class="links"><a href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.176089343.36199495/v1" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a></div>
   </div>
 </div>
 </li>
 
-<br />
-
-
-
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-     
     <img src="./assets/img/MedKGI.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
     
-     
-    <abbr class="badge">Under review</abbr>
-    
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://arxiv.org/pdf/2512.24181v2">MedKGI: Iterative Differential Diagnosis with Medical Knowledge Graphs and Information-Guided Inquiring</a></div>
-      <div class="author">Qipeng Wang, <strong>Rui Sheng</strong>, Yafei Li, Huamin Qu, Yushi Sun, Min Zhu</div>
-      <div class="periodical"><em>Under review.</em>
-      </div>
-    <div class="links">
-       
-      <a href="https://arxiv.org/pdf/2512.24181v2" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      
-      
-      
-      
-      
-      
-    </div>
+    <div class="title"><a href="https://arxiv.org/pdf/2512.24181v2">MedKGI: Iterative Differential Diagnosis with Medical Knowledge Graphs and Information-Guided Inquiring</a></div>
+    <div class="author">Qipeng Wang, <strong>Rui Sheng</strong>, Yafei Li, Huamin Qu, Yushi Sun, Min Zhu</div>
+    <div class="periodical"><em>Under review.</em></div>
+    <div class="links"><a href="https://arxiv.org/pdf/2512.24181v2" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a></div>
   </div>
 </div>
 </li>
 
-<br />
-
-
-
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-     
     <img src="./assets/img/scidiscoverysurvey.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
     
-     
-    <abbr class="badge">Under review</abbr>
-    
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://d197for5662m48.cloudfront.net/documents/publicationstatus/300929/preprint_pdf/bbbc6d64456385471b6c7657b6d2bc50.pdf">A Survey of Human-AI Collaboration for Scientific Discovery</a></div>
-      <div class="author">Chuhan Shi, Xiaoquan Ren, Yifang Wang, Junze Li, Yushi Sun, Yawen Luo, <strong>Rui Sheng*</strong></div>
-      <div class="periodical"><em>Under review. (Corresponding Author)</em>
-      </div>
-    <div class="links">
-       
-      <a href="https://d197for5662m48.cloudfront.net/documents/publicationstatus/300929/preprint_pdf/bbbc6d64456385471b6c7657b6d2bc50.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      
-      
-      
-      
-      
-      
-    </div>
+    <div class="title"><a href="https://d197for5662m48.cloudfront.net/documents/publicationstatus/300929/preprint_pdf/bbbc6d64456385471b6c7657b6d2bc50.pdf">A Survey of Human-AI Collaboration for Scientific Discovery</a></div>
+    <div class="author">Chuhan Shi, Xiaoquan Ren, Yifang Wang, Junze Li, Yushi Sun, Yawen Luo, <strong>Rui Sheng*</strong></div>
+    <div class="periodical"><em>Under review. (<span class='corresponding-label'>Corresponding Author</span>)</em></div>
+    <div class="links"><a href="https://d197for5662m48.cloudfront.net/documents/publicationstatus/300929/preprint_pdf/bbbc6d64456385471b6c7657b6d2bc50.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a></div>
   </div>
 </div>
 </li>
 
-<br />
-
-
-
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-     
     <img src="./assets/img/SciSciCanvas.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
     
-     
-    <abbr class="badge">Under review</abbr>
-    
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://arxiv.org/pdf/2604.08491">Figures as Interfaces: Toward LLM-Native Artifacts for Scientific Discovery</a></div>
-      <div class="author">Yifang Wang, <strong>Rui Sheng</strong>, Erzhuo Shao, Yifan Qian, Haotian Li, Nan Cao, Dashun Wang</div>
-      <div class="periodical"><em>Under review.</em>
-      </div>
-    <div class="links">
-       
-      <a href="https://arxiv.org/pdf/2604.08491" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      
-      
-      
-      
-      
-      
-    </div>
+    <div class="title"><a href="https://arxiv.org/pdf/2604.08491">Figures as Interfaces: Toward LLM-Native Artifacts for Scientific Discovery</a></div>
+    <div class="author">Yifang Wang, <strong>Rui Sheng</strong>, Erzhuo Shao, Yifan Qian, Haotian Li, Nan Cao, Dashun Wang</div>
+    <div class="periodical"><em>Under review.</em></div>
+    <div class="links"><a href="https://arxiv.org/pdf/2604.08491" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a></div>
   </div>
 </div>
 </li>
 
-<br />
-
-
-
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-     
     <img src="./assets/img/InconLens.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
     
-     
-    <abbr class="badge">Under review</abbr>
-    
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://arxiv.org/pdf/2603.28106">InconLens: Interactive Visual Diagnosis of Behavioral Inconsistencies in LLM-based Agentic Systems</a></div>
-      <div class="author">Shuo Yan, Xiaolin Wen, Shaolun Ruan, Yanjie Zhang, Jiaming Mi, Yushi Sun, Huamin Qu, <strong>Rui Sheng*</strong></div>
-      <div class="periodical"><em>Under review. (Corresponding Author)</em>
-      </div>
-    <div class="links">
-       
-      <a href="https://arxiv.org/pdf/2603.28106" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      
-      
-      
-      
-      
-      
-    </div>
+    <div class="title"><a href="https://arxiv.org/pdf/2603.28106">InconLens: Interactive Visual Diagnosis of Behavioral Inconsistencies in LLM-based Agentic Systems</a></div>
+    <div class="author">Shuo Yan, Xiaolin Wen, Shaolun Ruan, Yanjie Zhang, Jiaming Mi, Yushi Sun, Huamin Qu, <strong>Rui Sheng*</strong></div>
+    <div class="periodical"><em>Under review. (<span class='corresponding-label'>Corresponding Author</span>)</em></div>
+    <div class="links"><a href="https://arxiv.org/pdf/2603.28106" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a></div>
   </div>
 </div>
 </li>
 
-<br />
-
-
-
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-     
     <img src="./assets/img/MDTRoom.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
     
-     
-    <abbr class="badge">Under review</abbr>
-    
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://arxiv.org/pdf/2603.28393">Within the MDT Room: Situated in Multidisciplinary Team-Grounded Agent Debate for Clinical Diagnosis</a></div>
-      <div class="author">Peng Kuai, Yukun Yang, Shaolun Ruan, Junchi Xu, Yanjie Zhang, Lin Zhang, Min Zhu, <strong>Rui Sheng*</strong></div>
-      <div class="periodical"><em>Under review. (Corresponding Author)</em>
-      </div>
-    <div class="links">
-       
-      <a href="https://arxiv.org/pdf/2603.28393" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      
-      
-      
-      
-      
-      
-    </div>
+    <div class="title"><a href="https://arxiv.org/pdf/2603.28393">Within the MDT Room: Situated in Multidisciplinary Team-Grounded Agent Debate for Clinical Diagnosis</a></div>
+    <div class="author">Peng Kuai, Yukun Yang, Shaolun Ruan, Junchi Xu, Yanjie Zhang, Lin Zhang, Min Zhu, <strong>Rui Sheng*</strong></div>
+    <div class="periodical"><em>Under review. (<span class='corresponding-label'>Corresponding Author</span>)</em></div>
+    <div class="links"><a href="https://arxiv.org/pdf/2603.28393" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a></div>
   </div>
 </div>
 </li>
-
-<br />
-
-
 
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-     
-    <img src="./assets/img/misleading.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
-    
-     
-    <abbr class="badge">Under review</abbr>
+    <img src="./assets/img/STALE.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
     
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://arxiv.org/abs/2603.28583">Navigating the Mirage: A Dual-Path Agentic Framework for Robust Misleading Chart Question Answering</a></div>
-      <div class="author">Yanjie Zhang, Yafei Li, <strong>Rui Sheng</strong>, Zixin Chen, Yanna Lin, Huamin Qu, Lei Chen, Yushi Sun</div>
-      <div class="periodical"><em>Under review.</em>
-      </div>
-    <div class="links">
-       
-      <a href="https://arxiv.org/abs/2603.28583" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      
-      
-      
-      
-      
-      
-    </div>
+    <div class="title"><a href="https://arxiv.org/pdf/2605.06527">STALE: Can LLM Agents Know When Their Memories Are No Longer Valid?</a></div>
+    <div class="author">Hanxiang Chao, Yihan Bai, <strong>Rui Sheng</strong>, Tianle Li, Yushi Sun</div>
+    <div class="periodical"><em>Under review.</em></div>
+    <div class="links"><a href="https://arxiv.org/pdf/2605.06527" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a></div>
   </div>
 </div>
 </li>
 
-<br />
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/EduAgentBench.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
+    
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2605.14322">Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows</a></div>
+    <div class="author">Zixin Chen, Peng Liu, <strong>Rui Sheng</strong>, Haobo Li, Jianhong Tu, Xiaodong Deng, Kashun Shum, Dayiheng Liu, Huamin Qu</div>
+    <div class="periodical"><em>Under review.</em></div>
+    <div class="links"><a href="https://arxiv.org/pdf/2605.14322" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a></div>
+  </div>
+</div>
+</li>
 
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/medical-multi-agent.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
+    
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://www.preprints.org/frontend/manuscript/8ce564b11c60e5df1fcc2ff55495eecb/download_pub">Not Just One Agent: Multi-Agent Systems for Medicine from Answer Generation to Accountable Workflow Orchestration</a></div>
+    <div class="author">Tianyi Xiong, Hanze Guo, <strong>Rui Sheng</strong>, Zelin Zang, Xingyin Li, Xingyu Chen, Haoyi Liu, Yue Liu, Xingrui Li, Ziqing Li, Yaying Du, Shaojie Xu</div>
+    <div class="periodical"><em>Under review.</em></div>
+    <div class="links"><a href="https://www.preprints.org/frontend/manuscript/8ce564b11c60e5df1fcc2ff55495eecb/download_pub" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a></div>
+  </div>
+</div>
+</li>
 
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/WildTrace.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
+    
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2607.09328">WILDTRACE: Benchmarking Natural Evidence Trails in Long-Context Reasoning</a></div>
+    <div class="author">Zixin Chen, Peng Liu, Haobo Li, <strong>Rui Sheng</strong>, Jianhong Tu, Xiaodong Deng, Fei Huang, Kashun Shum, Dayiheng Liu, Huamin Qu.</div>
+    <div class="periodical"><em>Under review.</em></div>
+    <div class="links"><a href="https://arxiv.org/pdf/2607.09328" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a></div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/SDABench.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
+    
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2607.11079">Are LLMs Ready for Scientific Discovery? A Capability-Oriented Benchmark for AI Scientists</a></div>
+    <div class="author">Chuhan Shi, Xiaoquan Ren, Sicheng Song, Haobo Li, <strong>Rui Sheng*</strong>, Yushi Sun*</div>
+    <div class="periodical"><em>Under review.</em></div>
+    <div class="links"><a href="https://arxiv.org/pdf/2607.11079" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a></div>
+  </div>
+</div>
+</li>
 
 </ol>
 </div>
 
-<h2 id="up-publications" style="margin: 2px 0px -15px;">Papers Under Review</h2>
-<p style="margin: 30px 0;">
-Here are some works that have been completed and are currently under review. We have not made them accessible to the public yet. Looking forward to some good news! In addition, please feel free to contact me if you are interested in those projects.
-</p>
-<div class="publications">
-<ol class="bibliography">
-<ul style="display: flex; flex-wrap: wrap; list-style-type: none; padding: 0;">
-
-
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-     
-    <img src="./assets/img/AIvidence.png" class="teaser img-fluid z-depth-1" style="height: 123px; width: 175px" />
-    
-    <div style="position: absolute; top: 8px; left: 16px; display: flex; flex-wrap: wrap;">
-        
-        <div class="badge" style="background-color: #52796f; color: #fff; margin-right: 5px;">First-author</div>
-      
-       
-        <div class="badge" style="background-color: #bc6c25; color: #fff;">LLM4Healthcare</div>
-      
-    </div>
+<h2 id="up-publications">Papers Under Review</h2>
+<p class="under-review-intro">Completed work currently under review. Please contact me if you would like to discuss these projects.</p>
+<div class="publications other-publications">
+<ul class="other-publications-grid">
+<li class="other-publication-item">
+<div class="other-publication-card">
+  <img src="./assets/img/AIvidence.png" class="teaser img-fluid z-depth-1" alt="" />
+  <div class="other-publication-tags">
+    <span class="other-publication-tag is-author">First-author</span>
+    <span class="other-publication-tag is-topic">LLM4Healthcare</span>
   </div>
 </div>
 </li>
 
-<br />
-
-
-
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-     
-    <img src="./assets/img/MolecularCanvas.png" class="teaser img-fluid z-depth-1" style="height: 123px; width: 175px" />
-    
-    <div style="position: absolute; top: 8px; left: 16px; display: flex; flex-wrap: wrap;">
-        
-        <div class="badge" style="background-color: #52796f; color: #fff; margin-right: 5px;">Corresponding</div>
-      
-       
-        <div class="badge" style="background-color: #bc6c25; color: #fff;">LLM4Science</div>
-      
-    </div>
+<li class="other-publication-item">
+<div class="other-publication-card">
+  <img src="./assets/img/MolecularCanvas.png" class="teaser img-fluid z-depth-1" alt="" />
+  <div class="other-publication-tags">
+    <span class="other-publication-tag is-author">Corresponding</span>
+    <span class="other-publication-tag is-topic">LLM4Science</span>
   </div>
 </div>
 </li>
 
-<br />
-
-
-
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-     
-    <img src="./assets/img/MedLLMLens.png" class="teaser img-fluid z-depth-1" style="height: 123px; width: 175px" />
-    
-    <div style="position: absolute; top: 8px; left: 16px; display: flex; flex-wrap: wrap;">
-        
-        <div class="badge" style="background-color: #52796f; color: #fff; margin-right: 5px;">Co-author</div>
-      
-       
-        <div class="badge" style="background-color: #bc6c25; color: #fff;">LLM4Healthcare</div>
-      
-    </div>
+<li class="other-publication-item">
+<div class="other-publication-card">
+  <img src="./assets/img/CellEco.png" class="teaser img-fluid z-depth-1" alt="" />
+  <div class="other-publication-tags">
+    <span class="other-publication-tag is-author">Corresponding</span>
+    <span class="other-publication-tag is-topic">AI4Science</span>
   </div>
 </div>
 </li>
 
-<br />
-
-
-
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-     
-    <img src="./assets/img/ImaGene.png" class="teaser img-fluid z-depth-1" style="height: 123px; width: 175px" />
-    
-    <div style="position: absolute; top: 8px; left: 16px; display: flex; flex-wrap: wrap;">
-        
-        <div class="badge" style="background-color: #52796f; color: #fff; margin-right: 5px;">Co-author</div>
-      
-       
-        <div class="badge" style="background-color: #bc6c25; color: #fff;">AI4Healthcare</div>
-      
-    </div>
+<li class="other-publication-item">
+<div class="other-publication-card">
+  <img src="./assets/img/ImaGene.png" class="teaser img-fluid z-depth-1" alt="" />
+  <div class="other-publication-tags">
+    <span class="other-publication-tag is-author">Co-author</span>
+    <span class="other-publication-tag is-topic">AI4Healthcare</span>
   </div>
 </div>
 </li>
 
-<br />
-
-
-
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-     
-    <img src="./assets/img/ConsistDDx.png" class="teaser img-fluid z-depth-1" style="height: 123px; width: 175px" />
-    
-    <div style="position: absolute; top: 8px; left: 16px; display: flex; flex-wrap: wrap;">
-        
-        <div class="badge" style="background-color: #52796f; color: #fff; margin-right: 5px;">Co-author</div>
-      
-       
-        <div class="badge" style="background-color: #bc6c25; color: #fff;">LLM4Healthcare</div>
-      
-    </div>
+<li class="other-publication-item">
+<div class="other-publication-card">
+  <img src="./assets/img/ConsistDDx.png" class="teaser img-fluid z-depth-1" alt="" />
+  <div class="other-publication-tags">
+    <span class="other-publication-tag is-author">Co-author</span>
+    <span class="other-publication-tag is-topic">LLM4Healthcare</span>
   </div>
 </div>
 </li>
 
-<br />
-
-
-
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-     
-    <img src="./assets/img/Engager.png" class="teaser img-fluid z-depth-1" style="height: 123px; width: 175px" />
-    
-    <div style="position: absolute; top: 8px; left: 16px; display: flex; flex-wrap: wrap;">
-        
-        <div class="badge" style="background-color: #52796f; color: #fff; margin-right: 5px;">Co-author</div>
-      
-       
-        <div class="badge" style="background-color: #bc6c25; color: #fff;">AI4Education</div>
-      
-    </div>
+<li class="other-publication-item">
+<div class="other-publication-card">
+  <img src="./assets/img/Engager.png" class="teaser img-fluid z-depth-1" alt="" />
+  <div class="other-publication-tags">
+    <span class="other-publication-tag is-author">Co-author</span>
+    <span class="other-publication-tag is-topic">AI4Education</span>
   </div>
 </div>
 </li>
-
-<br />
-
 
 </ul>
-</ol>
 </div>
 
 <h2 id="collaborations">Collaborations</h2>
@@ -1143,7 +756,7 @@ Here are some works that have been completed and are currently under review. We 
       </footer>
     </div>
     <script src="/assets/js/scale.fix.js"></script>
-    <script src="/assets/js/home-effects.js" defer></script>
+    <script src="/assets/js/home-effects.js?v=20260719g" defer></script>
     
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

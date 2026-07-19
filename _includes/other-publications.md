@@ -1,34 +1,27 @@
-<h2 id="up-publications" style="margin: 2px 0px -15px;">Papers Under Review</h2>
-<p style="margin: 30px 0;">
-Here are some works that have been completed and are currently under review. We have not made them accessible to the public yet. Looking forward to some good news! In addition, please feel free to contact me if you are interested in those projects.
+<h2 id="up-publications">Papers Under Review</h2>
+<p class="under-review-intro">
+Completed work currently under review. Please contact me if you would like to discuss these projects.
 </p>
-<div class="publications">
-<ol class="bibliography">
-<ul style="display: flex; flex-wrap: wrap; list-style-type: none; padding: 0;">
+<div class="publications other-publications">
+<ul class="other-publications-grid">
 {% for link in site.data.other-publications.main %}
 
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+<li class="other-publication-item">
+<div class="other-publication-card">
     {% if link.image %} 
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="height: 123px; width: 175px">
+    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" alt="">
     {% endif %}
-    <div style="position: absolute; top: 8px; left: 16px; display: flex; flex-wrap: wrap;">
+    <div class="other-publication-tags">
       {% if link.author %}  
-        <div class="badge" style="background-color: #52796f; color: #fff; margin-right: 5px;">{{ link.author }}</div>
+        <span class="other-publication-tag is-author">{{ link.author }}</span>
       {% endif %}
       {% if link.topic %} 
-        <div class="badge" style="background-color: #bc6c25; color: #fff;">{{ link.topic }}</div>
+        <span class="other-publication-tag is-topic">{{ link.topic }}</span>
       {% endif %}
     </div>
-  </div>
 </div>
 </li>
 
-<br>
-
 {% endfor %}
 </ul>
-</ol>
 </div>
-

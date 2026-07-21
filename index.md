@@ -3,9 +3,9 @@ layout: homepage
 ---
 
 ## About Me
-I am Rui (Dylan) SHENG (盛睿), a final-year Ph.D. candidate in Computer Science and Engineering at the Hong Kong University of Science and Technology. I am a member of the [HKUST VisLab](http://vis.cse.ust.hk/), advised by [Prof. Huamin Qu](http://huamin.org/).
+I am Rui (Dylan) SHENG (盛睿), a final-year Ph.D. candidate in Computer Science and Engineering at the Hong Kong University of Science and Technology. I am a member of the [HKUST VisLab](http://vis.cse.ust.hk/), advised by [Prof. Huamin Qu](http://huamin.org/). Before joining HKUST, I received my B.S. from Wuhan University in 2021 (rank 2/334).
 
-My research develops human-centered AI and visual analytics for biomedical discovery and healthcare. Before joining HKUST, I received my B.S. from Wuhan University in 2021 (rank 2/334). I am also very honored to be closely supervised by [Prof. Yang Liu](https://nlp.csai.tsinghua.edu.cn/~ly/) at the THUNLP Group, Tsinghua University and [Prof. Adam Perer](https://perer.org/) at Carnegie Mellon University. In addition, I maintain close collaborations with [Prof. Min Zhu](https://cs.scu.edu.cn/info/1279/19761.htm) at Sichuan University, [Prof. Chuhan Shi](https://shichuhan.github.io/) at Southeast University, and [Prof. Yifang Wang](https://wangyifang.top/) at Florida State University.
+My research develops human-centered AI and visual analytics for biomedical discovery and healthcare. I am also very honored to be closely supervised by [Prof. Yang Liu](https://nlp.csai.tsinghua.edu.cn/~ly/) at the THUNLP Group, Tsinghua University, and [Prof. Adam Perer](https://perer.org/) at Carnegie Mellon University. In addition, I maintain close collaborations with [Prof. Min Zhu](https://cs.scu.edu.cn/info/1279/19761.htm) at Sichuan University, [Prof. Chuhan Shi](https://shichuhan.github.io/) at Southeast University, and [Prof. Yifang Wang](https://wangyifang.top/) at Florida State University.
 
 ## Research Interests
 

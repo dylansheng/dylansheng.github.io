@@ -1,4 +1,32 @@
 main:
+  - title: "Are LLMs Ready for Scientific Discovery? A Capability-Oriented Benchmark for AI Scientists"
+    authors: Chuhan Shi, Xiaoquan Ren, Sicheng Song, Haobo Li, <strong>Rui Sheng*</strong>, Yushi Sun*
+    conference_short: Under review
+    conference: Under review.
+    image: ./assets/img/SDABench.png
+    pdf: https://arxiv.org/pdf/2607.11079
+
+  - title: "InconLens: Interactive Visual Diagnosis of Behavioral Inconsistencies in LLM-based Agentic Systems"
+    authors: Shuo Yan, Xiaolin Wen, Shaolun Ruan, Yanjie Zhang, Jiaming Mi, Yushi Sun, Huamin Qu, <strong>Rui Sheng*</strong>
+    conference_short: Under review
+    conference: Under review. (Corresponding Author)
+    image: ./assets/img/InconLens.png
+    pdf: https://arxiv.org/pdf/2603.28106
+
+  - title: "Within the MDT Room: Situated in Multidisciplinary Team-Grounded Agent Debate for Clinical Diagnosis"
+    authors: Peng Kuai, Yukun Yang, Shaolun Ruan, Junchi Xu, Yanjie Zhang, Lin Zhang, Min Zhu, <strong>Rui Sheng*</strong>
+    conference_short: Under review
+    conference: Under review. (Corresponding Author)
+    image: ./assets/img/MDTRoom.png
+    pdf: https://arxiv.org/pdf/2603.28393
+
+  - title: "Fewer Clarifications, Better Code: Benchmarking Cross-Session Personalized Ambiguity Adaptation in Coding Assistants"
+    authors: Zijian Xu, Wenshuo Zhang, Zisen Qin, <strong>Rui Sheng</strong>, Yushi Sun, Huamin Qu, Chuhan Shi
+    conference_short: Under review
+    conference: Under review.
+    image: ./assets/img/CAPA.png
+    pdf: https://arxiv.org/pdf/2607.26611
+    
   - title: "A Survey of LLM-based Multi-agent Systems in Medicine"
     authors: Yanna Lin, Shaojie Xu, Wenshuo Zhang, Yushi Sun, Zixin Chen, Yanjie Zhang, <strong>Rui Sheng*</strong>
     conference_short: Under review
@@ -27,20 +55,6 @@ main:
     image: ./assets/img/SciSciCanvas.png
     pdf: https://arxiv.org/pdf/2604.08491
 
-  - title: "InconLens: Interactive Visual Diagnosis of Behavioral Inconsistencies in LLM-based Agentic Systems"
-    authors: Shuo Yan, Xiaolin Wen, Shaolun Ruan, Yanjie Zhang, Jiaming Mi, Yushi Sun, Huamin Qu, <strong>Rui Sheng*</strong>
-    conference_short: Under review
-    conference: Under review. (Corresponding Author)
-    image: ./assets/img/InconLens.png
-    pdf: https://arxiv.org/pdf/2603.28106
-
-  - title: "Within the MDT Room: Situated in Multidisciplinary Team-Grounded Agent Debate for Clinical Diagnosis"
-    authors: Peng Kuai, Yukun Yang, Shaolun Ruan, Junchi Xu, Yanjie Zhang, Lin Zhang, Min Zhu, <strong>Rui Sheng*</strong>
-    conference_short: Under review
-    conference: Under review. (Corresponding Author)
-    image: ./assets/img/MDTRoom.png
-    pdf: https://arxiv.org/pdf/2603.28393
-
   - title: "STALE: Can LLM Agents Know When Their Memories Are No Longer Valid?"
     authors: Hanxiang Chao, Yihan Bai, <strong>Rui Sheng</strong>, Tianle Li, Yushi Sun
     conference_short: Under review
@@ -68,10 +82,3 @@ main:
     conference: Under review.
     image: ./assets/img/WildTrace.png
     pdf: https://arxiv.org/pdf/2607.09328
-
-  - title: "Are LLMs Ready for Scientific Discovery? A Capability-Oriented Benchmark for AI Scientists"
-    authors: Chuhan Shi, Xiaoquan Ren, Sicheng Song, Haobo Li, <strong>Rui Sheng*</strong>, Yushi Sun*
-    conference_short: Under review
-    conference: Under review.
-    image: ./assets/img/SDABench.png
-    pdf: https://arxiv.org/pdf/2607.11079

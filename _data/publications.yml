@@ -4,6 +4,7 @@ main:
     conference_short: VIS
     conference: IEEE VIS, 2026, <strong>Corresponding Author</strong>.
     image: ./assets/img/CellPrism.png
+    pdf: https://arxiv.org/abs/2608.01669
     
   - title: "VeriLLMed: Interactive Visual Debugging of Medical Large Language Models with Knowledge Graphs"
     authors: Yurui Xiang, Xingyi Mao, <strong>Rui Sheng</strong>, Zixin Chen, Zelin Zang, Yuyang Wu, Haipeng Zeng, Huamin Qu, Yushi Sun, Yanna Lin

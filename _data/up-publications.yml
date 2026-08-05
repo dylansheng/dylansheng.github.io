@@ -1,4 +1,11 @@
 main:
+  - title: "TACT: Taxonomy-Aligned Post-Training for Pedagogically Adaptive English Tutoring"
+    authors: Dongjie Yang, Siyan Lin, Leixian Shen, <strong>Rui Sheng</strong>, Huamin Qu, Zixin Chen
+    conference_short: Under review
+    conference: Under review.
+    image: ./assets/img/TACT.png
+    pdf: https://arxiv.org/pdf/2608.03952
+    
   - title: "Are LLMs Ready for Scientific Discovery? A Capability-Oriented Benchmark for AI Scientists"
     authors: Chuhan Shi, Xiaoquan Ren, Sicheng Song, Haobo Li, <strong>Rui Sheng*</strong>, Yushi Sun*
     conference_short: Under review

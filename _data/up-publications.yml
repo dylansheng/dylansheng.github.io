@@ -9,7 +9,7 @@ main:
   - title: "Are LLMs Ready for Scientific Discovery? A Capability-Oriented Benchmark for AI Scientists"
     authors: Chuhan Shi, Xiaoquan Ren, Sicheng Song, Haobo Li, <strong>Rui Sheng*</strong>, Yushi Sun*
     conference_short: Under review
-    conference: Under review.
+    conference: Under review. (Corresponding Author)
     image: ./assets/img/SDABench.png
     pdf: https://arxiv.org/pdf/2607.11079
 

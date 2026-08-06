@@ -3,7 +3,7 @@ main:
     authors: Yushi Sun, Yanjie Zhang, <strong>Rui Sheng*</strong>
     conference_short: Under review
     conference: Under review. (Corresponding Author)
-    image: ./assets/img/MirageBench.png
+    image: ./assets/img/Mirage.png
     pdf: https://huggingface.co/papers/2608.04570
     
   - title: "TACT: Taxonomy-Aligned Post-Training for Pedagogically Adaptive English Tutoring"

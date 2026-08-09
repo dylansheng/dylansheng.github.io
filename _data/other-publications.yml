@@ -2,10 +2,6 @@ main:
   - image: ./assets/img/AIvidence.png
     author: First-author
     topic: LLM4Healthcare
-
-  - image: ./assets/img/MolecularCanvas.png
-    author: Corresponding
-    topic: LLM4Science
     
   - image: ./assets/img/CellEco.png
     author: Corresponding
@@ -18,6 +14,10 @@ main:
   - image: ./assets/img/ConsistDDx.png
     author: Co-author
     topic: LLM4Healthcare
+  
+  - image: ./assets/img/CrossSense.png
+    author: Co-author
+    topic: LLM4Science
 
   - image: ./assets/img/Engager.png
     author: Co-author

@@ -1,4 +1,11 @@
 main:
+  - title: "MolecularCanvas: LLM-assisted Small-Molecule Drug Discovery via Structure-Guided Constraints"
+    authors: Haoyu Dong+, <strong>Rui Sheng+</strong>, Shuhao Zhang, Yushi Sun, Dingyang Wu, Hanxiang Chao, Olexandr Isayev, Huamin Qu, Yuyang Wu, Yanna Lin
+    conference_short: UIST
+    conference: ACM UIST, 2026.
+    image: ./assets/img/MolecularCanvas.png
+    pdf: https://arxiv.org/abs/2608.00393
+    
   - title: "CellPrism: A Visual Analytics System for Exploring AI-Driven Virtual Cells in Drug Discovery"
     authors: Chuhan Shi, Zijian Guo, Zelin Zang, Chengbo Zheng, Ding Ding, <strong>Rui Sheng*</strong>
     conference_short: VIS

@@ -37,7 +37,8 @@ My research develops human-centered AI and visual analytics for biomedical disco
 <details class="news-archive">
 <summary>Earlier news (2021–2025)</summary>
 <div markdown="1">
-
+  
+- **[Sept 22, 2026]**: 🏅 Our paper (CellPrism) won the IEEE VIS'26 Best Paper Award. Congrats team (Independent corresponding author)!
 - **[Nov, 2025]**: My first-author paper (CellScout) has been accepted for IEEE TVCG 2025 (CCF A)!
 - **[Oct, 2025]**: My first-author paper (EMINDS) has been accepted for IEEE TVCG 2025 (CCF A)!
 - **[Sept, 2025]**: Our paper has been accepted for Campbell Systematic Reviews! Congrats team!

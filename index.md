@@ -25,6 +25,8 @@ My research develops human-centered AI and visual analytics for biomedical disco
 </div>
 
 ## News
+- **[Sept 22, 2026]**: Our paper (Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows) has been accepted for NeurIPS 2026! Congrats team!
+- **[Sept 22, 2026]**: 🏅 Our paper (CellPrism) won the IEEE VIS'26 Best Paper Award. Congrats team (Independent corresponding author)!
 - **[July, 2026]**: Our two papers (CellPrism and VeriLLMed) have been accepted for IEEE VIS 2026! Congrats to the two amazing teams! I am the corresponding author of CellPrism.
 - **[July, 2026]**: Our paper (Navigating the Mirage: A Dual-Path Agentic Framework for Robust Misleading Chart Question Answering) has been accepted for ACM MM 2026! Congrats team!
 - **[Feb, 2026]**: I have started my visiting journey at the THUNLP Group, Tsinghua University, collaborating with [Prof. Yang Liu](https://nlp.csai.tsinghua.edu.cn/~ly/), who is the Dean of the Institute for AI Industry Research (AIR)!
@@ -38,7 +40,6 @@ My research develops human-centered AI and visual analytics for biomedical disco
 <summary>Earlier news (2021–2025)</summary>
 <div markdown="1">
   
-- **[Sept 22, 2026]**: 🏅 Our paper (CellPrism) won the IEEE VIS'26 Best Paper Award. Congrats team (Independent corresponding author)!
 - **[Nov, 2025]**: My first-author paper (CellScout) has been accepted for IEEE TVCG 2025 (CCF A)!
 - **[Oct, 2025]**: My first-author paper (EMINDS) has been accepted for IEEE TVCG 2025 (CCF A)!
 - **[Sept, 2025]**: Our paper has been accepted for Campbell Systematic Reviews! Congrats team!

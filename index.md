@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-I am Rui (Dylan) SHENG (盛睿), an incoming postdoctoral researcher in [Prof. Dakuo Wang](https://www.dakuowang.com/)’s group at the [Northeastern University Human-Centered AI Lab (NEU HAI)](https://hailab.io/). I received my Ph.D. in Computer Science and Engineering from the Hong Kong University of Science and Technology (HKUST), where I was a member of the [HKUST VisLab](http://vis.cse.ust.hk/), advised by [Prof. Huamin Qu](http://huamin.org/). Before joining HKUST, I received my B.S. from Wuhan University in 2021 (rank 2/334).
+I am Rui (Dylan) SHENG (盛睿), a postdoctoral researcher in [Prof. Dakuo Wang](https://www.dakuowang.com/)’s group at the [Northeastern University Human-Centered AI Lab (NEU HAI)](https://hailab.io/). I received my Ph.D. in Computer Science and Engineering from the Hong Kong University of Science and Technology (HKUST), where I was a member of the [HKUST VisLab](http://vis.cse.ust.hk/), advised by [Prof. Huamin Qu](http://huamin.org/). Before joining HKUST, I received my B.S. from Wuhan University in 2021 (rank 2/334).
 
 My research develops human-centered AI and visual analytics for biomedical discovery and healthcare. I am also very honored to be closely supervised by [Prof. Yang Liu](https://nlp.csai.tsinghua.edu.cn/~ly/) at the THUNLP Group, Tsinghua University, and [Prof. Adam Perer](https://perer.org/) at Carnegie Mellon University. In addition, I maintain close collaborations with [Prof. Min Zhu](https://cs.scu.edu.cn/info/1279/19761.htm) at Sichuan University, [Prof. Chuhan Shi](https://shichuhan.github.io/) at Southeast University, and [Prof. Yifang Wang](https://wangyifang.top/) at Florida State University.
 
@@ -21,6 +21,26 @@ My research develops human-centered AI and visual analytics for biomedical disco
   <div class="research-area">
     <h3>AI for Healthcare</h3>
     <p>Clinical decision support and simulation for clinical practice.</p>
+  </div>
+</div>
+
+## Awards
+
+<div class="awards-list" role="list">
+  <div class="award-item" role="listitem">
+    <div class="award-year">2026</div>
+    <div class="award-icon" aria-hidden="true"><i class="fas fa-trophy"></i></div>
+    <div class="award-content"><strong>IEEE VIS Best Paper Award</strong><span class="award-role">Corresponding author</span><span class="award-distinction">Top 1%</span></div>
+  </div>
+  <div class="award-item" role="listitem">
+    <div class="award-year">2025</div>
+    <div class="award-icon" aria-hidden="true"><i class="fas fa-medal"></i></div>
+    <div class="award-content"><strong>IEEE VIS Best Paper Honorable Mention Award</strong><span class="award-role">Second author</span><span class="award-distinction">Top 5%</span></div>
+  </div>
+  <div class="award-item" role="listitem">
+    <div class="award-year">2021</div>
+    <div class="award-icon" aria-hidden="true"><i class="fas fa-graduation-cap"></i></div>
+    <div class="award-content"><strong>Hong Kong Ph.D. Fellowship Scheme</strong><span class="award-distinction">Top 4% · HK$331,200 annually</span></div>
   </div>
 </div>
 

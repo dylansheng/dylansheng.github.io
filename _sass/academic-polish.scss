@@ -1382,19 +1382,19 @@ body.academic-home {
   overflow: hidden;
   border: 0;
   border-radius: 999px;
-  background: linear-gradient(90deg, rgba(255, 247, 226, 0.58) 0%, rgba(255, 253, 247, 0.43) 28%, rgba(255, 255, 255, 0.72) 100%);
-  box-shadow: none;
+  background: linear-gradient(90deg, rgba(239, 236, 229, 0.88) 0%, rgba(247, 246, 242, 0.72) 32%, rgba(255, 255, 255, 0.58) 100%);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.68), 0 1px 5px rgba(43, 55, 63, 0.025);
   -webkit-backdrop-filter: blur(8px) saturate(108%);
   backdrop-filter: blur(8px) saturate(108%);
   transition: border-color 180ms ease, box-shadow 180ms ease, transform 180ms ease;
 }
 
 .award-item:nth-child(2) {
-  background: linear-gradient(90deg, rgba(238, 246, 252, 0.58) 0%, rgba(250, 252, 255, 0.43) 28%, rgba(255, 255, 255, 0.72) 100%);
+  background: linear-gradient(90deg, rgba(233, 238, 242, 0.88) 0%, rgba(245, 247, 249, 0.72) 32%, rgba(255, 255, 255, 0.58) 100%);
 }
 
 .award-item:nth-child(3) {
-  background: linear-gradient(90deg, rgba(237, 248, 244, 0.58) 0%, rgba(250, 253, 252, 0.43) 28%, rgba(255, 255, 255, 0.72) 100%);
+  background: linear-gradient(90deg, rgba(234, 239, 237, 0.88) 0%, rgba(246, 248, 247, 0.72) 32%, rgba(255, 255, 255, 0.58) 100%);
 }
 
 .award-item:hover {
@@ -1403,7 +1403,7 @@ body.academic-home {
 }
 
 .award-year {
-  color: #947f59;
+  color: #766d5d;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   font-size: 0.67rem;
   font-weight: 500;
@@ -1416,18 +1416,18 @@ body.academic-home {
   height: 1.05rem;
   place-items: center;
   background: transparent;
-  color: #b0935d;
+  color: #8b7959;
   font-size: 0.66rem;
 }
 
 .award-item:nth-child(2) .award-icon {
   background: transparent;
-  color: #416d8b;
+  color: #557082;
 }
 
 .award-item:nth-child(3) .award-icon {
   background: transparent;
-  color: #3f766f;
+  color: #58756f;
 }
 
 .award-content {
@@ -1482,8 +1482,8 @@ body.academic-home {
   padding: 0.17rem 0.46rem;
   border: 0;
   border-radius: 999px;
-  background: rgba(255, 250, 238, 0.76);
-  color: #9a8358;
+  background: rgba(237, 233, 224, 0.9);
+  color: #766b58;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   font-size: 0.59rem;
   font-weight: 400;
@@ -1497,13 +1497,13 @@ body.academic-home {
 }
 
 .award-item:nth-child(2) .award-distinction {
-  background: rgba(235, 242, 251, 0.92);
-  color: #416d8b;
+  background: rgba(231, 237, 241, 0.92);
+  color: #526d7e;
 }
 
 .award-item:nth-child(3) .award-distinction {
-  background: rgba(233, 245, 242, 0.92);
-  color: #3f766f;
+  background: rgba(231, 238, 235, 0.92);
+  color: #526f69;
 }
 
 ul.news-timeline {
